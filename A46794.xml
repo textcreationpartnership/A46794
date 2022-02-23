@@ -1,0 +1,971 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christian tutor, or, A free and rational discourse of the sovereign good and happiness of man, and the infallible way of attaining it, especially in the practice of Christian religion written in a letter of advice to Mr. James King in the East-Indies / by Henry Jenkes ... ; and now published for the benefit of all others.</title>
+            <author>Jenkes, Henry, d. 1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46794</idno>
+            <idno type="STC">Wing J628</idno>
+            <idno type="STC">ESTC R1916</idno>
+            <idno type="EEBO-CITATION">12576546</idno>
+            <idno type="OCLC">ocm 12576546</idno>
+            <idno type="VID">63596</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46794)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63596)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 962:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christian tutor, or, A free and rational discourse of the sovereign good and happiness of man, and the infallible way of attaining it, especially in the practice of Christian religion written in a letter of advice to Mr. James King in the East-Indies / by Henry Jenkes ... ; and now published for the benefit of all others.</title>
+                  <author>Jenkes, Henry, d. 1697.</author>
+                  <author>King, James.</author>
+               </titleStmt>
+               <extent>[8], 72 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Faithorne, and John Kersey ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>Table of contents: p. [3]-[7]</note>
+                  <note>Errata: p. [7]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Anglican authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63596:1"/>
+            <pb facs="tcp:63596:1" rendition="simple:additions"/>
+            <p>THE <hi>Chriſtian Tutor,</hi> Or, A Free and Rational Diſcourſe OF THE Sovereign Good and Happineſs of MAN, AND THE Infallible Way of attaining it, eſpecially in the Practice of CHRISTIAN RELIGION: Written in a Letter of ADVICE to Mr. <hi>James King</hi> in the <hi>Eaſt-Indies.</hi>
+            </p>
+            <p>By <hi>HENRY JENKES</hi> Fellow of <hi>Gon<g ref="char:EOLhyphen"/>vil</hi> and <hi>Caius</hi> College in the Univerſity of <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi> and of the <hi>Royal Society.</hi>
+            </p>
+            <p>And now Publiſhed for the Benefit of all others.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Faithorne,</hi> and <hi>John Kerſey,</hi> at the <hi>Roſe</hi> in St. <hi>Paul</hi>'s Church-Yard, MDCLXXXIII.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:63596:2" rendition="simple:additions"/>
+            <pb facs="tcp:63596:2"/>
+            <head>A GENERAL VIEW Of the Principal CONTENTS.</head>
+            <list>
+               <item>
+                  <label>Sect. I.</label> 
+                  <list>
+                     <item>THe Occaſion of this Letter <hi>Page 1</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Sect. II.</label> 
+                  <list>
+                     <item>The main Argument or Subject-matter of it, <hi>p. 3</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Sect. III.</label>
+                  <list>
+                     <item>Of the Sovereign Good of Man, <hi>p. 4</hi>
+                        <list>
+                           <item>
+                              <hi>1.</hi> Wherein it conſiſts, <hi>p. 5</hi>
+                           </item>
+                           <item>
+                              <hi>2.</hi> Wherein it cannot conſiſt, <hi>p. 7</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Sect. IV.</label>
+                  <list>
+                     <item>Of the Infallible way of attaining it, <hi>p. 8</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Sect. V.</label>
+                  <list>
+                     <item>In the General way, <hi>p. 9</hi>
+                        <pb facs="tcp:63596:3"/>
+                        <list>
+                           <item>
+                              <hi>1.</hi> By loving God, <hi>p. 10</hi>
+                              <list>
+                                 <item>The beſt Expreſſions of that Love, <hi>p. 11</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>
+                              <hi>2.</hi> By loving our Neighbour, <hi>p. 12</hi>
+                              <list>
+                                 <item>The Principal Parts or Acts of this Love are two, <hi>Ibid.</hi>
+                                    <list>
+                                       <item>
+                                          <hi>1.</hi> To wrong no man, <hi>Ibid.</hi>
+                                       </item>
+                                       <item>
+                                          <hi>2.</hi> To do men all the Good we can, <hi>p. 13</hi>
+                                          <list>
+                                             <item>Inſtances of it, <hi>Ibid.</hi>
+                                             </item>
+                                             <item>Our Particular behaviour towards our Superi<g ref="char:EOLhyphen"/>ours, Equals, &amp; Inferiours, <hi>p. 14</hi>
+                                             </item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>
+                              <hi>3.</hi> By loving our ſelves, <hi>p. 16</hi>
+                              <list>
+                                 <item>This Love conſiſts in two things, <hi>p. 17</hi>
+                                    <list>
+                                       <item>
+                                          <hi>1.</hi> In denying our ſelves in ſomethings, <hi>Ibid.</hi>
+                                          <list>
+                                             <item>What theſe things are, <hi>Ibid.</hi>
+                                             </item>
+                                          </list>
+                                       </item>
+                                       <item>
+                                          <hi>2.</hi> In making much of our ſelves in ſome other things, <hi>p. 18</hi>
+                                          <list>
+                                             <item>What thoſe things are is here declared, as for inſtance, <hi>p. 19</hi>
+                                                <list>
+                                                   <item>
+                                                      <hi>1.</hi> The good Health of the Body <hi>Ibid.</hi>
+                                                      <list>
+                                                         <item>The beſt Rule for that, <hi>Ibid.</hi>
+                                                         </item>
+                                                      </list>
+                                                   </item>
+                                                   <item>
+                                                      <hi>2.</hi> The Perfections of the Mind, <hi>p. 20</hi>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>1.</hi> 
+                        <g ref="char:V">Ʋ</g>ſeful Knowledge, <hi>Ibid.</hi>
+                        <list>
+                           <item>An Account of ſome of the beſt Books, <hi>p. 21</hi>
+                           </item>
+                           <item>An Account of the beſt Books in <hi>Chriſtian Re<g ref="char:EOLhyphen"/>ligion, Ibid.</hi>
+                           </item>
+                           <item>Another Account of the beſt Books in <hi>Geogra<g ref="char:EOLhyphen"/>phy</hi>
+                              <pb facs="tcp:63596:3"/>and <hi>Hiſtory, p. 26</hi>
+                           </item>
+                           <item>An Account of ſome Books that Vindicate and defend the Church of <hi>England, p. 31</hi>
+                           </item>
+                           <item>A farther Account of ſome other good Books in <hi>Philoſophy</hi> and <hi>Mathematicks, p. 32</hi>
+                           </item>
+                           <item>Some Directions concerning Reading, and the Right uſe of good Books, <hi>p. 36</hi>
+                              <list>
+                                 <item>The firſt Direction, <hi>Ibid.</hi>
+                                 </item>
+                                 <item>The ſecond Direction, <hi>p. 37</hi>
+                                 </item>
+                                 <item>The third Direction, <hi>Ibid.</hi>
+                                 </item>
+                                 <item>The fourth Direction, <hi>p. 38</hi>
+                                 </item>
+                                 <item>The Author's Political Compaſs, <hi>p. 43</hi>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>2.</hi> Vertuous Practices, <hi>p. 46</hi>
+                        <list>
+                           <item>Eſpecially the due Government of our Thoughts and Paſſions, <hi>Ibid.</hi>
+                              <list>
+                                 <item>
+                                    <hi>1.</hi> The Government of our Thoughts, <hi>p. 47</hi>
+                                    <list>
+                                       <item>The true way of it by Avocation and Revoca<g ref="char:EOLhyphen"/>tion, <hi>Ibid.</hi>
+                                       </item>
+                                    </list>
+                                 </item>
+                                 <item>
+                                    <hi>2.</hi> The Government of our Paſſions, <hi>p. 48</hi>
+                                    <list>
+                                       <item>In the firſt Effort, <hi>p. 49</hi>
+                                          <list>
+                                             <item>Two Rules to be obſerved, <hi>Ibid.</hi>
+                                                <list>
+                                                   <item>The firſt Rule, to determine our Paſſions to their proper Objects, <hi>Ibid.</hi>
+                                                   </item>
+                                                   <item>The ſecond Rule, to regulate and order them in ſuch a way and manner as may be propor<g ref="char:EOLhyphen"/>tionate to thoſe Objects, <hi>p. 50</hi>
+                                                      <list>
+                                                         <pb facs="tcp:63596:4"/>
+                                                         <item>The <g ref="char:V">Ʋ</g>ſe of this Rule is ſhewn in moſt Paſſions. <hi>p. 51</hi>
+                                                         </item>
+                                                      </list>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                       <item>In the ſecond Effort, <hi>p. 55</hi>
+                                          <list>
+                                             <item>Two Maxims of State muſt be obſerved and practiſed, <hi>p. 56</hi>
+                                                <list>
+                                                   <item>The firſt Maxim <hi>Divide and Command, Ibid.</hi>
+                                                   </item>
+                                                   <item>The ſecond Maxim <hi>Truſt, but look well whom you truſt, Ibid.</hi>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                                 <item>
+                                    <hi>3.</hi> The whole Man muſt be alſo regarded by us. <hi>p. 58</hi>
+                                 </item>
+                                 <item>
+                                    <hi>4.</hi> Our good Name and Reputation, <hi>p. 59</hi>
+                                 </item>
+                                 <item>
+                                    <hi>5.</hi> Our Real and Perſonal Eſtate, <hi>p. 60</hi>
+                                    <list>
+                                       <item>The Tranſition to the next head of Diſcourſe, <hi>p. 61</hi>
+                                       </item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Sect. VI.</label>
+                  <list>
+                     <item>The Infallible way of attaining the Sovereign Good of Man <hi>in the ſpecial way of Chriſtian Religion, p. 63</hi>
+                        <list>
+                           <item>By loving our Lord Jeſus Chriſt in Truth and Sincerity, <hi>that is to ſay, Ibid.</hi>
+                              <list>
+                                 <item>
+                                    <hi>1.</hi> Honour him, <hi>Ibid.</hi>
+                                    <list>
+                                       <item>
+                                          <hi>1.</hi> As to his Perſon, <hi>p. 64</hi>
+                                       </item>
+                                       <item>
+                                          <hi>2.</hi> As to his Offices, <hi>p. 65</hi>
+                                          <list>
+                                             <item>
+                                                <hi>1.</hi> As he is your Prophet, <hi>Ibid.</hi>
+                                             </item>
+                                             <item>
+                                                <hi>2.</hi> — your High-Prieſt, <hi>Ibid.</hi>
+                                             </item>
+                                             <pb facs="tcp:63596:4"/>
+                                             <item>
+                                                <hi>3.</hi> — your King, <hi>p. 66</hi>
+                                             </item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                                 <item>
+                                    <hi>2.</hi> Entertain his Doctrine. <hi>p. 67</hi>
+                                    <list>
+                                       <item>
+                                          <hi>1.</hi> Believe his Promiſes, <hi>Ibid.</hi>
+                                       </item>
+                                       <item>
+                                          <hi>2.</hi> Obey his Precepts, <hi>p. 68</hi>
+                                       </item>
+                                       <item>
+                                          <hi>3.</hi> Imitate his holy Life and Example, <hi>p. 69</hi>
+                                       </item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Sect. VII.</label>
+                  <list>
+                     <item>The Concluſion, <hi>p. 72</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Page 21 line 17. for Twelves, read <hi>Octavo.</hi> p. 27 l. 5. r. <hi>Tabulae.</hi> p. 31 <hi>l.</hi> 17. r. <hi>Eccleſiae.</hi> p. 36 l. 12. for a, r. <hi>or.</hi> Ibid. l. 21, and 22. for, at beſt hand, r. <hi>are beſt ſecured.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:63596:5"/>
+            <pb n="1" facs="tcp:63596:5"/>
+            <head>THE CHRISTIAN TUTOR.</head>
+            <div n="1" type="section">
+               <opener>
+                  <salute>Dear Sir,</salute>
+               </opener>
+               <p>THE great Kindneſs I have for you and always had makes me at this time write to you,
+<note place="margin">§. 1. <hi>The Oc<g ref="char:EOLhyphen"/>caſion of this Letter.</hi>
+                  </note> and that the rather, becauſe the good Character that has been given of late by the Preſident <hi>Aungier,</hi> (a Perſon of great Honour and Integrity) of your Honeſty, great Diligence, and graceful Behaviour in all your Actions, as it has procured you the Company's Favour in making you one of their Factors in <hi>India,</hi> ſo it has exceedingly rejoyced me that I
+<pb n="2" facs="tcp:63596:6"/>cannot but with this <hi>New Year</hi> congratu<g ref="char:EOLhyphen"/>late to you all Health and Happineſs, long may you live to Enjoy that Place to your Contentment, Satisfaction, <hi>&amp;c.</hi> You ſhall never want my good Counſel and Prayers, to further you with Gods Bleſſing in all Well-doing. Silver and Gold have I none to ſend you, but what is above the Price of Rubies, and Diamonds, and above all the Riches of the <hi>Eaſt;</hi> You ſhall not fail every Year to have a juſt Letter full fraught with them; and that is Wiſe and ſerious Di<g ref="char:EOLhyphen"/>rections for the Conduct of your Life here to the Attainment of a Better hereafter: Inſtructions that ſhall never hinder Buſineſs either Publick or Pri<g ref="char:EOLhyphen"/>vate, ſuch wholſom Advices, that you ſhall be the better for them, or at leaſt never repent that you have follow'd them. <hi>An Example and Proof</hi> of them this Paper-Meſſenger brings you by this preſent Shipping, from one that hear<g ref="char:EOLhyphen"/>tily loves you and all your Relations after the higheſt rate of Friendſhip, and therefore what he ſays you will I doubt
+<pb n="3" facs="tcp:63596:6"/>not entertain with the like good Affe<g ref="char:EOLhyphen"/>ction.</p>
+            </div>
+            <div n="2" type="section">
+               <p>I will not long detain you with any tedious Pre<g ref="char:EOLhyphen"/>faces,
+<note place="margin">§. 2. <hi>The main Argument, or ſubject matter of it.</hi>
+                  </note> for Time is ſhort and precious, but immediately betake my ſelf to <hi>that Argument of Diſ<g ref="char:EOLhyphen"/>courſe</hi> I have propoſed to my ſelf, to enlarge my good Will upon, with the beſt Underſtanding I have of it. You know very well that <hi>It is the great Deſire of all men to be Happy.</hi> For no man would be Miſerable. Every one of us takes care to eſtabliſh his Hap<g ref="char:EOLhyphen"/>pineſs in ſome good thing or other, which he judges will moſt Contribute to that <hi>End,</hi> but in the ſeveral <hi>Ways</hi> and <hi>Means</hi> that are made Choice of, all Men (but the Wiſe and Virtuous) are miſtaken; and therefore I will, God wil<g ref="char:EOLhyphen"/>ling, for your Information, and my own, give you <hi>my Choiceſt Thoughts about this matter.</hi> And that we may proceed Me<g ref="char:EOLhyphen"/>thodically herein, I ſhall firſt paint out unto you, what I judge to be a Man's
+<pb n="4" facs="tcp:63596:7"/>
+                  <hi>Sovereign Good,</hi> that can only render him Happy, and then ſhew you the moſt <hi>Direct</hi> and <hi>Infallible Way</hi> of Attaining it.</p>
+            </div>
+            <div n="3" type="section">
+               <p>
+                  <hi>Firſt,</hi>
+                  <note place="margin">§. 3. <hi>Of the Sovereign Good of Man.</hi>
+                  </note> By <hi>the Sovereign Good of Man</hi> I mean the Acqui<g ref="char:EOLhyphen"/>ſition and Poſſeſſion of ſuch a thing as is moſt <hi>Beneficial</hi> to him and all others in the whole World, that which gives him full Content and Sa<g ref="char:EOLhyphen"/>tisfaction of Mind, the greateſt Peace and Tranquillity, a permanent Joy, ſin<g ref="char:EOLhyphen"/>cere and unmixed, that which he can never Loſe but by his own Default, nor be deprived of by any outward Force or Violence; a <hi>Good</hi> that is commenſu<g ref="char:EOLhyphen"/>rate to <hi>the great End of mans Creation</hi> (as he is a Free and Rational Agent) and for which he was made by God, and ſent into this lower World, that he might Live according to the <hi>Tenor of his Nature;</hi> a <hi>Good</hi> that is of it ſelf ſufficient to gratifie all our Reaſonable Appetites and Deſires; a <hi>Good that is Perfective of our Nature,</hi> that improves our Rational Powers and Faculties, that every one
+<pb n="5" facs="tcp:63596:7"/>of them may attain their <hi>Chief End,</hi> for which they were given us by <hi>God Al<g ref="char:EOLhyphen"/>mighty,</hi> the <hi>Liberal Donor</hi> of all <hi>Good Things;</hi> in a word, it is the <hi>General Good</hi> of all the <hi>
+                     <g ref="char:V">Ʋ</g>niverſe;</hi> that which does not only procure our Real Profit, Plea<g ref="char:EOLhyphen"/>ſure and Satisfaction, but alſo the greateſt Pleaſure to all others of the ſame Com<g ref="char:EOLhyphen"/>munity with us—<hi>
+                     <g ref="char:V">Ʋ</g>t univerſis &amp; ſingulis bene ſit.</hi> That it may fare well with all and every one of us.</p>
+               <p>Now, <note n="1" place="margin">Wherein it conſiſts.</note> that <hi>this can be no<g ref="char:EOLhyphen"/>thing elſe but Virtue, or the moſt Heavenly Life that Man can lead here upon Earth;</hi> You may eaſily make out to your ſelf from the Deſcri<g ref="char:EOLhyphen"/>ption I have juſt now premiſed: for he that endeavours to Live Vertuouſly and really doth ſo, reaps thereby the comfor<g ref="char:EOLhyphen"/>table benefits of this Life, and that which is to come, and ſo do all others too by this good man's Intention and Proviſi<g ref="char:EOLhyphen"/>on. He enjoys the trueſt Pleaſure, Con<g ref="char:EOLhyphen"/>tent and Satisfaction of Mind; the ſe<g ref="char:EOLhyphen"/>reneſt Peace, and Tranquillity of a good
+<pb n="6" facs="tcp:63596:8"/>Conſcience attend him perpetually, and nothing is of that ſufficiency as this to gratifie all his Reaſonable Appetites and Deſires. <hi>Here is a Good that is Perfective of our Nature,</hi> that Improves and Ad<g ref="char:EOLhyphen"/>vances all our Rational Faculties and Powers; for it makes us <hi>truly Wiſe and truly Good,</hi> it is infinitely conducive to our Happineſs; it is our very Happineſs, and nothing elſe ſo much. <hi>This was that great and excellent Good for which God Almighty made Man,</hi> and gave him a Na<g ref="char:EOLhyphen"/>ture ſuitable to this very End and Pur<g ref="char:EOLhyphen"/>poſe, that he ſhould make it his main Buſineſs and Work in this World, <hi>to Live Vertuouſly, and do all the Good be can:</hi> For in ſo doing he approves himſelf a <hi>True Citizen</hi> and <hi>Worthy Inhabitant</hi> of the World, and all the World is the bet<g ref="char:EOLhyphen"/>ter for him, for not only my own Plea<g ref="char:EOLhyphen"/>ſure is hereby Procured, but alſo the Pleaſure and Satisfaction of all others by me; <hi>the General Good I mean of our Community we Live in. This I ſay is the Sove<g ref="char:EOLhyphen"/>reign Good of Man's Happineſs.</hi>
+               </p>
+               <pb n="7" facs="tcp:63596:8"/>
+               <p>
+                  <hi>All other things without this can never make us Happy;</hi> This,
+<note n="2" place="margin">Wherein it cannot Conſiſt.</note> and this only can do it. That which the men of this World ſo much Admire and Hunt after, is Riches, Honors, and Senſual Pleaſures, but upon an impartial Review and Examination, none of theſe Idle Toys can ever pre<g ref="char:EOLhyphen"/>tend to make the Owners of them Happy, for they are all at the Beſt but Vain and Momentary, and Periſh in the Enjoyment, they do not only not make us Good or Better, but they nei<g ref="char:EOLhyphen"/>ther make us <hi>truly Rich, truly Honourable, or truly Joyful;</hi> as they may be well Uſed and Employed by us in the Way of Vertue <hi>they are good Tools or Inſtru<g ref="char:EOLhyphen"/>ments,</hi> but in disjunction from Vertue they are ſtark naught, and ſo can be no Ingredients of Happineſs. Beſides they reach not the Mind of Man, the better Part in us, they are common and trivial things, few are ever the Better for them, but moſt are the Worſe, for the greateſt Enjoyment of them. But
+<pb n="8" facs="tcp:63596:9"/>this can never be ſaid of <hi>Divine Vertue,</hi> all the World is the better for it, and every Man in particular may be ſo too if he will but Liſt himſelf under her Colours; and therefore to conclude this point; <hi>The Sovereign Good of Mans Happi<g ref="char:EOLhyphen"/>neſs conſiſts in the Acquiſition and Poſſeſſion of this Great and Everlaſting Good.</hi>
+               </p>
+            </div>
+            <div n="4" type="section">
+               <p>
+                  <hi>Secondly,</hi>
+                  <note place="margin">§. 4. <hi>Of the In<g ref="char:EOLhyphen"/>fallible way of Attaining it.</hi>
+                  </note> Now to At<g ref="char:EOLhyphen"/>tain this Happy State of Life, to live in a conſtant and uninterrupted Fruition of the beſt Pleaſures of the Mind, to have true Peace, Content and Satisfaction, and that all others for whom we are con<g ref="char:EOLhyphen"/>cerned, may have it too by our means; <hi>This can only ariſe from the Conſcience of doing well, and always better and better,</hi> that is to ſay, if you would be truly Happy as you and I deſire to be.</p>
+               <p>
+                  <hi>Let us once for all reſolve to Live according to the Rules of Vertue, and the Laws of our Holy Chriſtian Religion,</hi> and I can aſſure you that we cannot but be exceeding
+<pb n="9" facs="tcp:63596:9"/>Happy. What thoſe Rules and Laws are that ſet out to us the Divine and Hea<g ref="char:EOLhyphen"/>venly Life of Vertue, I will now lay before you, I mean <hi>the Chiefeſt of them,</hi> for the Holy Scriptures eſpecially of the <hi>New Teſtament,</hi> which I hope you dili<g ref="char:EOLhyphen"/>gently Read, with <hi>Eraſmus</hi> his Excellent Paraphraſe, will inform you better in the particulars, and all other things re<g ref="char:EOLhyphen"/>lating to this Affair, than I can do; and here tho' I could be Large and Copious, yet for your ſake and my own, I will be as brief as I can in the Enumeration and Explication of them.</p>
+            </div>
+            <div n="5" type="section">
+               <p>
+                  <hi>He that Deſires,
+<note place="margin">§ 5. <hi>The Ge<g ref="char:EOLhyphen"/>neral Way.</hi>
+                     </note> and Hear<g ref="char:EOLhyphen"/>tily Endeavours to be truly Happy, muſt make it his Prin<g ref="char:EOLhyphen"/>cipal Care to lead a Life of Holineſs and Ver<g ref="char:EOLhyphen"/>tue, correſpondent to thoſe Laws, which Reaſon and Revelation have made known unto us:</hi> They are for our ſingular Advantage, not Many and Burthenſome, but Few, Eaſie and Pleaſant Injunctions, <hi>as for Inſtance.</hi>
+               </p>
+               <pb n="10" facs="tcp:63596:10"/>
+               <p>To Love God, our Neighbour, and our Selves in the laſt place, after the beſt manner.</p>
+               <p>For Love is the Fulfilling of the whole Law, it is that which the Royal Law of Liberty, <hi>The Everlaſting Goſpel of our Saviour</hi> Jeſus Chriſt, above all Duties moſt ſtrictly Enjoyns us, and as Effectu<g ref="char:EOLhyphen"/>ally recommends unto us; all other Particular Commands are but ſo many Parts of this General Law of Love, this contains them all, and is indeed the true Source and Vital Principle of the Divine Life of Vertue and Doing Well, which can only render us Happy.</p>
+               <p>
+                  <hi>Firſt,</hi>
+                  <note n="1" place="margin">By Loving God.</note> By <hi>Loving of God</hi> I mean nothing elſe but what any body may eaſily un<g ref="char:EOLhyphen"/>derſtand that Loves Vertue: <hi>Namely,</hi> that we always have Worthy Thoughts of him in our Minds, becoming the Per<g ref="char:EOLhyphen"/>fection of his Divine Nature, and his Sovereignty over us; that we Reverence <gap reason="missing" extent="1 page">
+                     <desc>〈1 page missing〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:63596:10"/>Eſteem him Infinitely for his Wiſdome, Goodneſs and Power, that we Magnifie and Praiſe him for his Be<g ref="char:EOLhyphen"/>nefits,
+<note place="margin">The beſt Ex<g ref="char:EOLhyphen"/>preſſions of that Love.</note> that we conſtantly Depend upon him, and Pray unto him for the Sup<g ref="char:EOLhyphen"/>ply of all our Wants, that we heartily thank him for every Good Thing we enjoy, and look upon it as an Effect of his Grace and Bounty, that we be always willing to Truſt our ſelves with him, to ſubmit to his Wiſe Diſpoſals, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat we fear nothing ſo much as to diſpleaſe him, nor love any thing ſo Affectionately and Devoutly, as to Obey him Univerſally and Conſtantly <hi>in the moſt perfect Reſignation of our Wills to him.</hi> For this is the Love of God, ſays St. <hi>John,</hi> that we keep his Command<g ref="char:EOLhyphen"/>ments. <hi>All which if we do,</hi> let our Con<g ref="char:EOLhyphen"/>dition in this World be what it will or may be, <hi>we cannot but be truly Happy and Bl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſed.</hi> For the God of Love whom we Serve and Worſhip, will be always Bleſſing us, and doing us all the Good we are capable to receive from his
+<pb n="12" facs="tcp:63596:11"/>Bountiful Hands; under his Fatherly Care, Protection and Government, we are Safe and Secure, and nothing ſhall be able to diſquiet us; where ever we are we ſhall always carry about with us <hi>a Heaven upon Earth;</hi> the Peace of a good Conſcience ariſing from this Love of God, will be a Continual Feaſt to us.</p>
+               <p>
+                  <hi>Secondly,</hi>
+                  <note n="2" place="margin">By Loving our Neighbour.</note> The next thing in Order to our Happineſs, is <hi>To Love our Neighbour,</hi> that is, <hi>All Men.</hi> Our Charity as <hi>to the Object or Perſons to be Beloved by us</hi> muſt reach them all not one excepted, and as to <hi>the ſeveral Acts of it,</hi> they are only theſe two.</p>
+               <p>For <hi>Firſt,</hi>
+                  <note place="margin">The Principal Parts or Acts of this Love are two.</note> The Love of our Neighbour requires of us that we hurt no man in any of his Concerns, that we be tender of his Life,
+<note n="1" place="margin">To wrong or grieve no man.</note> Honour, Credit, Reputati<g ref="char:EOLhyphen"/>on, and Good Name, that we look after the Good Condition
+<pb n="13" facs="tcp:63596:11"/>of his Mind and Body, that we do him no Wrong, in impairing his outward Eſtate, his Goods and Chattels, or whatever belongs to him, <hi>always</hi> re<g ref="char:EOLhyphen"/>membring That whenever I wrong any Man I firſt wrong my Self, and there<g ref="char:EOLhyphen"/>fore to avoid this Miſchief and Evil I bring on my Self, I will be ſure never to Wrong my Dear Neighbour, but reſolve to Love him as my Self, and be as Favourable to him as I would be to my ſelf, or deſire that others ſhould be to me. Hence</p>
+               <p>
+                  <hi>Secondly,</hi>
+                  <note n="2" place="margin">To do all the good we can.</note> The Love of our Neighbour requires of us alſo that we bear a good Will to all men, wiſhing them all the Happineſs they want, and are capable of, and that we endeavour alſo to do them all the Good we can, as we have opportunity, and as their neceſſity may be;
+<note place="margin">Inſtances of it.</note> to In<g ref="char:EOLhyphen"/>ſtruct the Ignorant, to Counſel the Doubtful, to <hi>Convert a Sinner from the Evil of his Ways,</hi> to Encourage
+<pb n="14" facs="tcp:63596:12"/>others in Well-doing by my good Ex<g ref="char:EOLhyphen"/>ample and Seaſonable Exhortations, to Relieve all Indigent and Neceſſitous People, the Poor and Needy by giving Alms Liberally, to Comfort all Di<g ref="char:EOLhyphen"/>ſtreſſed and Calamitous Perſons, and ſuch like Generous Acts of Charity are the Sum and Subſtance of this Law of Love to our Neighbour.</p>
+               <p>
+                  <hi>But then becauſe as thus conſider'd,</hi>
+                  <note place="margin">Our Particular behaviour to<g ref="char:EOLhyphen"/>wards our Su<g ref="char:EOLhyphen"/>periors, Equals, and Inferiours.</note> he may be either <hi>your Superiour, or Equal, or Inferiour,</hi> as to the Circum<g ref="char:EOLhyphen"/>ſtances you are in, you muſt behave your ſelf ſo as to give to every Order and Rank of Men, that which of Right appertains to them. <hi>Our Superiors</hi> and thoſe that are in Authority over us, <hi>Whether in Church or State,</hi> we are to Reverence them and Obey them in all their Pious Commands: <hi>Our Equals</hi> we muſt Love and Reſpect, as our Selves, do to them as we would be done unto again: <hi>Our Inferiours,</hi> if we have any, we muſt raiſe to an Equality
+<pb n="15" facs="tcp:63596:12"/>with us, and treat them with ſuch a Due Obſervance as if they were our Equals, that they may ſee we have as True and Kindly a Reſpect for them in the Condition they are in, as for all others that are in a higher Condition above them. <hi>For Chriſtian Love makes no Difference,</hi> but where it finds it made already to its hand, it makes the beſt and moſt of it, conſidering every one in the Circumſtances he is in, propor<g ref="char:EOLhyphen"/>tions her Reſpects and Kindneſſes to them in ſuch a befitting manner, that Right and Juſtice may be done to all without Partiality or Diminution of any Mans Right, be he my Superiour, Equal or Inferiour, if that can be. <hi>This is I ſay,</hi> for the main and moſt conſi<g ref="char:EOLhyphen"/>derable Inſtances of it, <hi>the true Law of Love to our Neighbour, which Law whoſoever Obſerves and Does thoſe things it Enjoyns to do (ex Animo &amp; Bona Fide,</hi> truly and ſin<g ref="char:EOLhyphen"/>cerely) as he has the Pleaſure, Content, and Satisfaction of Mind, of ſeeing others <hi>made Happy by him,</hi> in a way of Juſtice and Charity; <hi>So he alſo hereby
+<pb n="16" facs="tcp:63596:13"/>Secures and Furthers his own Happineſs, for who will wrong an Innocent Perſon, or do him any harm that makes it his buſineſs by his Beneficence, to Oblige all.</hi> Are they Not Indebted to him? And <hi>Is he not</hi> before hand with them? and therefore they are under an Obligation really and truly to become his Friends, to do him again all the Good they can, and by this Way of Gratitude to Requite all his Kindneſſes, <hi>And yet if they ſhould not do ſo, God Almighty interprets this Man's Love to his Neighbour as if it were ſhewn to him<g ref="char:EOLhyphen"/>ſelf,</hi> and therefore will Love this Good Man for it, and ever Bleſs him with all manner of Good Things, with ſuch Delights and Solacements, as this World can neither give nor take from him.</p>
+               <p>
+                  <hi>Thirdly,</hi>
+                  <note n="3" place="margin">By Loving our Selves.</note> The laſt thing I would recommend to you <hi>Is the True Love of your Self, after the beſt manner;</hi> for there is a ſort of <hi>Self-Love</hi> that is very vicious and culpa<g ref="char:EOLhyphen"/>ble, when a Man only regards himſelf,
+<pb n="17" facs="tcp:63596:13"/>and takes care that it may go well with him, whatever becomes of all others round about him: <hi>this, I ſay,</hi> is to be abandoned, <hi>for it will never render you hap<g ref="char:EOLhyphen"/>py,</hi> but rather betray you to a thouſand inconveniences and real evils. But now on the other hand, <hi>the true love of your ſelf conſiſts in this.</hi>
+               </p>
+               <p>
+                  <hi>Firſt,</hi>
+                  <note place="margin">This Love Con<g ref="char:EOLhyphen"/>ſiſts in two things.</note> That you deny your ſelf in ſome things, and then,</p>
+               <p>
+                  <hi>Secondly,</hi> That you make much of your ſelf in ſome other things.</p>
+               <p>
+                  <hi>Firſt,</hi> I ſay,
+<note n="1" place="margin">In denying our ſelves in ſome things.</note> you muſt deny your ſelf in ſome things, and that very pe<g ref="char:EOLhyphen"/>remptorily; that is, In all ſuch things as are contrary to Conſcience, and the Light of Reaſon within you, or are expreſly forbidden by the Law of God. <hi>S. Peter</hi> calls theſe unhallowed things <hi>fleſhly Luſts</hi> which war againſt the Soul; <hi>S. Paul</hi> calls them <hi>worldly Luſts, Tit.</hi> 2.
+<note place="margin">What theſe things are.</note> by both which thus much is given to under<g ref="char:EOLhyphen"/>ſtand that whatever Appe<g ref="char:EOLhyphen"/>tites
+<pb n="18" facs="tcp:63596:14"/>and Deſires ariſe in us from the fleſh and the world, deſires that only advance worldly deſigns that are apt to pamper the body <hi>to the neglect of the mind;</hi> theſe muſt be caſhered and baniſhed out of the ſoul of man if <hi>happineſs and welfare</hi> ſhall ever come in there. And this is but the the ſame that <hi>your baptiſmal Vow</hi> obliges you unto; to renounce the Devil, the World, and the Fleſh, with all the pomps and vanities thereof, and there<g ref="char:EOLhyphen"/>fore, <hi>as you are a Chriſtian,</hi> charge your ſelf daily with it, to obſerve it, and put it into Execution: <hi>by this ſhew the World</hi> that you are not only a Chriſtian by name and profeſſion, but in truth and reality by a conſtant practice of <hi>this holy ſelf-denial of your ſelf.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi>
+                  <note n="2" place="margin">In making much of our ſelves in ſome other things.</note> I ſay you muſt alſo make very much of your ſelf in ſome other things; I mean, 1. Such Internal Excellencies and Perfections muſt be minded by you, <hi>beſides,</hi> 2. Some other external good things, as will in the way and in the end make you truly happy.</p>
+               <pb n="19" facs="tcp:63596:14"/>
+               <p>Now theſe Internal <hi>Ex<g ref="char:EOLhyphen"/>cellencies and Perfections of your Nature</hi> either relate to the body, or the mind,
+<note place="margin">What thoſe things are is here delared, as for inſtance.</note> or to the whole man: The exter<g ref="char:EOLhyphen"/>nal good things without you, but very convenient for you to have them alſo, are ſuch as relate either to your good Name and Reputation, or real and per<g ref="char:EOLhyphen"/>ſonal Eſtate.</p>
+               <p>Therefore what concerns <hi>your body,</hi>
+                  <note n="1" place="margin">The good health of the body muſt be minded.</note> you muſt chiefly mind the good health and conſtitution of it. For a ſickly and craſie body is not fit for acti<g ref="char:EOLhyphen"/>on, nor a good Servant for the Soul. <hi>The beſt way of attaining it,</hi> un<g ref="char:EOLhyphen"/>der the Divine Bleſſing,
+<note place="margin">The beſt Rule for that.</note> is to uſe moderate and whol<g ref="char:EOLhyphen"/>ſome Diet, good Exerciſes, and innocent Recreations, to live always temperately, ſoberly, and according to Rule; for <hi>they that do ſo,</hi> ſleep quietly, <hi>in utramque aurem,</hi> they are ſeldom overcharged with noxious humours, or arreſted by any ſatal diſtempers, their heads are
+<pb n="20" facs="tcp:63596:15"/>clear, and their hearts ſound, their blood moves briskly and vigorouſly in their Veins; and wherever they go, they car<g ref="char:EOLhyphen"/>ry about with them <hi>a chearful mind in an healthful body, Mentem ſanam in corpore ſano, and that ſurely is a great happineſs,</hi> not to be parted with for all the voluptuous man's moſt ſumptuous Cheer, and ex<g ref="char:EOLhyphen"/>travagant Jollity; for that commonly ends in pains, lingring diſeaſes, and a miſerable death.</p>
+               <p>
+                  <hi>Secondly,</hi>
+                  <note n="2" place="margin">The Perfe<g ref="char:EOLhyphen"/>ctions of the Mind.</note> The perfections of your mind which muſt be looked after, and for which you may juſtly love your ſelf, and make much of your ſelf, in the enjoyment of, are ſuch as theſe, <hi>viz.</hi>
+               </p>
+               <p n="1">1. To acquire as much <hi>uſeful knowledge</hi> as you can;
+<note n="1" place="margin">
+                     <g ref="char:V">Ʋ</g>ſeful knowledge.</note> for as light is pleaſant to the Eye, ſo is truth to the Un<g ref="char:EOLhyphen"/>derſtanding: above all knowledge there<g ref="char:EOLhyphen"/>fore, labour to attain that which is moſt beneficial to you, which really will make you wiſe unto Salvation, as cer<g ref="char:EOLhyphen"/>tainly the knowledge of the true Reli<g ref="char:EOLhyphen"/>gion
+<pb n="21" facs="tcp:63596:15"/>of our Bleſſed Lord and Saviour Jeſus Chriſt is:
+<note place="margin">An Account of ſome of the b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt Books.</note> and that you may eaſily learn from thoſe good Books I have formerly re-commended to you when you went to the <hi>Eaſt-Indies.</hi>
+               </p>
+               <p>I think they were ſuch as theſe, tho' I ſhall add ſome few more that have been publiſh'd ſince to perfect this Ac<g ref="char:EOLhyphen"/>count.</p>
+               <p>
+                  <label>An Account of the beſt Books in Chriſtian Religion.</label>
+               </p>
+               <p n="1">I. Biſhop <hi>Wilkin</hi>'s Principles and Pra<g ref="char:EOLhyphen"/>ctices of Natural Religion, in <hi>Octavo.</hi>
+               </p>
+               <p>
+                  <hi>Hugo Grotius</hi> of the Truth of the Chri<g ref="char:EOLhyphen"/>ſtian Religion, of Dr. <hi>Patrick</hi>'s Edition, in <hi>Twelves.</hi>
+               </p>
+               <p>Dr. <hi>Patrick</hi>'s Witneſſes in 2 <hi>Octavo's,</hi> and Dr. <hi>Parker</hi>'s Demonſtration of the Divine Authority of the Law of Nature, and of the Chriſtian Religion, in <hi>Quarto.</hi>
+               </p>
+               <pb n="22" facs="tcp:63596:16"/>
+               <p>Theſe good Books will acquaint you with the true Grounds and Principles of all, and of Chriſtian Religion in general.</p>
+               <p n="2">II. Biſhop <hi>Pearſon</hi> upon the Creed, in <hi>Folio.</hi>
+               </p>
+               <p>Here this worthy Author gives you a moſt rational Account of the Funda<g ref="char:EOLhyphen"/>mental Articles or Doctrines of our Chriſtian Faith, as to the Verity and Neceſſity of them to a good Life.</p>
+               <p n="3">III. Doctor <hi>Hammond</hi>'s Practical Cate<g ref="char:EOLhyphen"/>chiſm, in <hi>Octavo.</hi>
+               </p>
+               <p>The whole Duty of Man, in <hi>Octavo.</hi>
+               </p>
+               <p>Doctor <hi>Taylor</hi>'s Holy Living, and Ho<g ref="char:EOLhyphen"/>ly dying, in <hi>Octavo.</hi>
+               </p>
+               <p>The Grand Exemplar, in <hi>Folio.</hi>
+               </p>
+               <p>Mr. <hi>Scot</hi>'s Chriſtian Life, in <hi>Octavo.</hi>
+               </p>
+               <p>Theſe five moſt uſeful Books thus put together will inſtruct you in all the wor<g ref="char:EOLhyphen"/>thy Practices of our holy Chriſtian Re<g ref="char:EOLhyphen"/>ligion. Whatever concerns a pious and vertuous life, you may learn from
+<pb n="23" facs="tcp:63596:16"/>hence. As for the Hiſtorical part of Chriſtianity, that you may know what manner of men the Primitive Chriſtians were, you ſhall do well to read</p>
+               <p>Doctor <hi>Cave</hi>'s Primitive Chriſtianity, in <hi>Octavo.</hi>
+               </p>
+               <p>The Lives of the holy Apoſtles, and primitive Fathers; by the ſame Author in two <hi>Folio's.</hi>
+               </p>
+               <p n="4">IV. Doctor <hi>Patrick</hi>'s Devout Chriſtian, in <hi>Twelves.</hi>
+               </p>
+               <p>Next to the Common-Prayer-Book this excellent Treatiſe will be a good help to you in your Devotions: with this you may entertain your ſelf upon all Occaſions to very good purpoſe.</p>
+               <p n="5">V. Doctor <hi>Patrick</hi>'s Parable of the Pil<g ref="char:EOLhyphen"/>grim, in <hi>Quarto.</hi>
+               </p>
+               <p>A moſt excellent Book in its kind. This will always put you in mind what
+<pb n="24" facs="tcp:63596:17"/>you are by Profeſſion, and ſhould be in very deed, a Chriſtian Pilgrim. Here you have a Guide that will inſtruct you in the true way to Heaven, and direct you ſo to ſteer your courſe of life, that by the Bleſſing of God upon your good endeavours, you ſhall not fail to come thither in God's own due time.</p>
+               <p n="6">VI. Dr. <hi>Tillotſon</hi>'s Sermons, in <hi>Octavo.</hi>
+               </p>
+               <p>This is one of the beſt Sermon-Books that I know, and therefore I would have you read it frequently, and make the beſt uſe of it: as alſo Biſhop <hi>Wilkins</hi>'s Ser<g ref="char:EOLhyphen"/>mons lately publiſhed; and Doctor <hi>Iſaac Barrow</hi>'s Sermons, all <hi>Octavo's.</hi>
+               </p>
+               <p n="7">VII. Doctor <hi>Henry More</hi>'s Grand My<g ref="char:EOLhyphen"/>ſtery of Godlineſs and Iniquity in two <hi>Folio's.</hi> Divine and moſt excellent Books to inform you in all the great things of Chriſtian Religion, or the grand Myſte<g ref="char:EOLhyphen"/>ry of Godlineſs; and how ſome people have apoſtatized from it, by advancing the grand Myſtery of Iniquity.</p>
+               <pb n="25" facs="tcp:63596:17"/>
+               <p n="8">VIII. Mr. <hi>Will. Chillingworth</hi>'s Prote<g ref="char:EOLhyphen"/>ſtant Religion the ſafe Way to Salvati<g ref="char:EOLhyphen"/>on, in <hi>Folio.</hi>
+               </p>
+               <p>I know you are a good Proteſtant Chriſtian; and therefore, to ſecure you in your Religion, I commend this in<g ref="char:EOLhyphen"/>comparable good Book to you.</p>
+               <p>Next to this moſt uſeful Knowledge, which ſo much conduces to your own <hi>Happineſs,</hi> and the <hi>Way</hi> of attaining it, and is in the aforeſaid Books very well explained and demonſtrated, if you have any time of leiſure hereafter, you ſhall do well to ſtudy <hi>Hiſtory</hi> and <hi>Geography,</hi> Studies that are both Pleaſant and Pro<g ref="char:EOLhyphen"/>fitable, and will fit you for Diſcourſe and ingenious Converſation. The beſt in that kind I have alſo heretofore na<g ref="char:EOLhyphen"/>med unto you, and given you my ad<g ref="char:EOLhyphen"/>vice how to proceed methodically in the reading of them.</p>
+               <pb n="26" facs="tcp:63596:18"/>
+               <p>
+                  <label>Another Account of the beſt Books in <hi>Geography</hi> and <hi>Hiſtory.</hi>
+                  </label>
+               </p>
+               <p>I think (for your memories ſake) they were ſuch as theſe, and may be (with ſome new ones) ranged in this Order.</p>
+               <p n="1">I. <hi>Abbot</hi>'s Geography, in <hi>Twelves.</hi>
+               </p>
+               <p>A Book for young Beginners, that contains a great deal in a little room, and will give you a very good deſcripti<g ref="char:EOLhyphen"/>on of all Countries, and the moſt re<g ref="char:EOLhyphen"/>markable things in them.</p>
+               <p n="2">II. Doctor <hi>Heylyn</hi>'s Coſmography, in <hi>Folio.</hi>
+               </p>
+               <p>This Book gives you a larger Ac<g ref="char:EOLhyphen"/>count of all Countries, as appears by the Title Page thereof.</p>
+               <pb n="27" facs="tcp:63596:18"/>
+               <p>
+                  <hi>In ſubſidium,</hi> for a farther help and di<g ref="char:EOLhyphen"/>rection in your Geographical Studies, you ſhall do well to take in theſe, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Varneii Geographia Abſoluta.</hi> in <hi>Octavo.</hi>
+               </p>
+               <p>
+                  <hi>P. Bertii Tabula Geographicae.</hi> in <hi>Quarto.</hi>
+               </p>
+               <p>
+                  <hi>G. Fournier Geographica Orbis Notitia,</hi> in <hi>Twelves.</hi>
+               </p>
+               <p>
+                  <hi>Mercatoris Atlas.</hi>
+               </p>
+               <p>
+                  <hi>Bleau</hi>'s—or the <hi>Engliſh Atlas.</hi> All in ſeveral large <hi>Folio'.</hi>
+               </p>
+               <p>
+                  <hi>Goth-fredi Archontologia Coſmica.</hi> in two <hi>Folio's.</hi>
+               </p>
+               <p>
+                  <hi>Couringii &amp; Oldenburgeri Theſaurus Rerum publicarum Totius Orbis Quadripertitus.</hi> in four <hi>Octavo's.</hi>
+               </p>
+               <p>The firſt will inſtruct you fully in the General part of Geography, and the others in the Special part of it, as to the Topography and Situation of all par<g ref="char:EOLhyphen"/>ticular Countries; and alſo as to the Go<g ref="char:EOLhyphen"/>vernment, Cuſtoms and Manners of the People.</p>
+               <pb n="28" facs="tcp:63596:19"/>
+               <p n="3">III. <hi>Johannis Cluverii Epitome Hiſtorie <g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>niverſalis,</hi> in <hi>Quarto.</hi>
+               </p>
+               <p>I have pitched upon this Book, be<g ref="char:EOLhyphen"/>cauſe in my judgment, I think it the beſt in the univerſal way of Hiſtory: it is very good <hi>Latin,</hi> and well digeſted as to the matter of it. After this read,</p>
+               <p>
+                  <hi>Marci Zuerii Bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hornii Hiſtoria Sacra &amp; Prophana Novi Teſtamenti.</hi> in <hi>Quarto.</hi>
+               </p>
+               <p>A learned and moſt excellent Book, both for Eccleſiaſtical and Civil Hiſtory.</p>
+               <p>For <hi>Chronology,</hi> the beſt in that way of Hiſtory are,</p>
+               <p>
+                  <hi>D. Petavii Rationale Temporum.</hi> in <hi>Twelves.</hi>
+               </p>
+               <p>
+                  <hi>Sethi Calviſii Chronologia,</hi> in <hi>Folio.</hi> as to <hi>Computation</hi> and <hi>Synchroniſms.</hi>
+               </p>
+               <p n="4">IV. Sir <hi>Walter Raleigh</hi>'s Hiſtory of the World, in <hi>Folio.</hi>
+               </p>
+               <pb n="29" facs="tcp:63596:19"/>
+               <p>This excellent Author was a great Traveller both by Sea and Land, and a great States-man to boot; and therefore well accompliſhed to write ſuch an Hi<g ref="char:EOLhyphen"/>ſtory. Had it been compleatly finiſhed as he deſigned to have it done, you could not have read a better Book in the kind. However, ſo far as he hath carried it on, with great judgment and diſcretion, it is exceeding well worth your reading.</p>
+               <p n="5">V. Doctor <hi>Howell</hi>'s General Hiſtory in two <hi>Folios.</hi>
+               </p>
+               <p>A Book ſo well worth my recom<g ref="char:EOLhyphen"/>mending to you, and your reading of it over, that I heartily wiſh the learned and worthy Author of it had quite fi<g ref="char:EOLhyphen"/>niſhed it for your ſake, and all others that love Hiſtory; as I hope he will do ſo in due time.</p>
+               <p n="6">VI. <hi>R. Verſtegan's</hi> Antiquities, <hi>&amp;c.</hi> in <hi>Octavo.</hi>
+               </p>
+               <pb n="30" facs="tcp:63596:20"/>
+               <p>
+                  <hi>R. Sheringhami de Anglorum Gentis Ori<g ref="char:EOLhyphen"/>gine Diſceptatio.</hi> in <hi>Octavo.</hi>
+               </p>
+               <p>
+                  <hi>Milton</hi>'s Hiſtory of <hi>England.</hi> in <hi>Octavo.</hi>
+               </p>
+               <p>
+                  <hi>Medulla Hiſtoriae Anglicanae,</hi> or a Com<g ref="char:EOLhyphen"/>prehenſive Hiſtory of <hi>England.</hi> in <hi>Twelves.</hi>
+               </p>
+               <p>
+                  <hi>Cambden</hi>'s <hi>Britannia,</hi>
+               </p>
+               <p>
+                  <hi>Baker</hi>'s Chronicle, and</p>
+               <p>
+                  <hi>Speed</hi>'s Chronicle, all <hi>Folio's.</hi>
+               </p>
+               <p>The Preſent State of <hi>England. Twelves.</hi>
+               </p>
+               <p>I would not have you ignorant of your own Country, nor the Hiſtory of it; and therefore you may ſerve your ſelf out of theſe good Books, with ſuch profitable Inſtructions, as will render you very knowing in thoſe matters.</p>
+               <p>
+                  <hi>VII.</hi> Doctor <hi>Gilbert Burnet</hi>'s Hiſtory of the Reformation, in two <hi>Folio's.</hi>
+               </p>
+               <p>This judicious and learned Author, in this Book of his, hath given you a true and impartial Account of the Reforma<g ref="char:EOLhyphen"/>tion of the Church of <hi>England,</hi> from the moſt Authentick Records of thoſe Times. Here you will ſee with what Prudence
+<pb n="31" facs="tcp:63596:20"/>and Moderation our Reformation was begun and continued. Which excellent Book I would have you therefore read when you have time and leiſure, that you may be well grounded and ſatisfied in the preſent eſtabliſhed Religion of the Church of <hi>England.</hi>
+               </p>
+               <p>
+                  <label>An account of ſome Books that Vindicate and defend the Church of <hi>England.</hi>
+                  </label>
+               </p>
+               <p>If you deſire to know more particu<g ref="char:EOLhyphen"/>larly what thoſe Books are of Eminent Note that have been written in De<g ref="char:EOLhyphen"/>fence of the Church of <hi>England,</hi> againſt thoſe that deſſent from her, I ſhall only recommend to you theſe few. <hi>viz.</hi>
+               </p>
+               <p n="1">I. Biſhop <hi>Jewell</hi> his <hi>Apologia Eccleſia An<g ref="char:EOLhyphen"/>glicanae.</hi> in <hi>Twelves.</hi>
+               </p>
+               <p>A Book of great Senſe, and written in a very Elegant <hi>Latine</hi> ſtile.</p>
+               <pb n="32" facs="tcp:63596:21"/>
+               <p n="2">II. Biſhop <hi>Laud</hi> againſt <hi>Fiſher</hi> in <hi>Folio.</hi> with</p>
+               <p>Dr. <hi>Stilling fleet</hi>'s Rational account of the Grounds of Proteſtant Religion, <hi>&amp;c.</hi> in Fol.</p>
+               <p n="3">III. Mr. <hi>Richard Hooker</hi>'s Eccleſiaſtical Polity in <hi>Folio.</hi>
+               </p>
+               <p n="4">IV. The Serions and Compaſſionate Enquiry, <hi>&amp;c.</hi> in <hi>Octavo.</hi>
+               </p>
+               <p n="5">V. Dr. <hi>Patrick</hi>'s Friendly Debate in <hi>Octavo.</hi> and then</p>
+               <p>Dr. <hi>Parker</hi>'s Caſe of the Church of <hi>England</hi> briefly and truly ſtated in <hi>Octavo.</hi>
+               </p>
+               <p>
+                  <label>A farther Account of ſome other good Books in Philoſophy and Mathematicks.</label>
+               </p>
+               <p>I know not whether you have a mind ſome time or other, to entertain your ſelf
+<pb n="33" facs="tcp:63596:21"/>with ſome other parts of Human Lear<g ref="char:EOLhyphen"/>ning; as Philoſophy and Mathematicks; if you be ſo minded; theſe are the Books that I would recommend to you.</p>
+               <p n="1">I. <hi>Antonii Le Grand Inſtitutio Philoſo<g ref="char:EOLhyphen"/>phiae,</hi> grounded upon the Great <hi>Des-Car<g ref="char:EOLhyphen"/>tes</hi> his Principles, together with his <hi>Hiſto<g ref="char:EOLhyphen"/>ria Naturae,</hi> in Quarto.</p>
+               <p>Item, <hi>Petri Gaſſendi Syntagma Philoſophiae, &amp; Rel qua ejuſdem.</hi> in four <hi>Folio's.</hi>
+               </p>
+               <p>
+                  <hi>Rehaulti Tractatus Phyſicus.</hi> in <hi>Octavo.</hi>
+               </p>
+               <p>Sir <hi>Francis Bacon</hi>'s Works. in <hi>Folio.</hi> And</p>
+               <p>The Honourable Mr. <hi>Boyl</hi>'s Choice Pieces in Experimental Philoſophy, ſome in <hi>Octavo's,</hi> and ſome in <hi>Quarto's,</hi> to which you may adjoyn.</p>
+               <p>Dr. <hi>Sprat</hi>'s Hiſtory of the Royal So<g ref="char:EOLhyphen"/>ciety in <hi>Quarto.</hi> A Book of great Excel<g ref="char:EOLhyphen"/>lency and Eloquence.</p>
+               <p>
+                  <hi>Item,</hi> Mr. <hi>Oldenburg</hi>'s Philoſophical Tranſactions. in ſeveral <hi>Quarto's.</hi> To entertain Inquiſitive minds withal.</p>
+               <p>
+                  <hi>Item,</hi> The Weekly Memorials for the Ingenious relating to moſt Arts and Sci<g ref="char:EOLhyphen"/>ences. in <hi>Quarto.</hi>
+               </p>
+               <pb n="34" facs="tcp:63596:22"/>
+               <p>
+                  <hi>Item. Pancirollus</hi> his Treatiſe <hi>de rebus re<g ref="char:EOLhyphen"/>pertis &amp; deperditis.</hi> in <hi>Quarto</hi> with <hi>Salmuth</hi>'s Annotations. A Book of very Curious Learning as to things newly found out and lately loſt.</p>
+               <p>In Moral Philoſophy eſpecially read,</p>
+               <p>
+                  <hi>P. Charron</hi> of Wiſdom, in <hi>Quarto.</hi>
+               </p>
+               <p>
+                  <hi>Henrici Mori Enchiridion Ethicum.</hi> in 80.</p>
+               <p>
+                  <hi>Puffendorff de Officiis Hominis &amp; Civis,</hi> in <hi>Octavo.</hi>
+               </p>
+               <p>
+                  <hi>Hermanni Conringii Pro-Politica, vel Pruden<g ref="char:EOLhyphen"/>tia Civilis.</hi> in <hi>Quarto.</hi>
+               </p>
+               <p>
+                  <hi>Hugo Grotius de Jure Belli ac Pacis.</hi> in <hi>Quarto.</hi>
+               </p>
+               <p>Doctor <hi>Cudworth</hi>'s true Syſtem of the Intellectual Univerſe: A Book of great Learning and invincible Reaſon; there wants nothing to recommend it further, but his <hi>Moral <g ref="char:V">Ʋ</g>niverſe,</hi> &amp;c.</p>
+               <p>After this you may read ſome of the Ancients, as <hi>Plato, Ariſtotle, Plutarch</hi>'s Mo<g ref="char:EOLhyphen"/>rals and Lives; and ſometimes <hi>Tully</hi> and <hi>Seneca:</hi> ſome of which are in <hi>Folio,</hi> and ſome in leſſer Volumes. Beſides, <hi>Horis
+<pb n="35" facs="tcp:63596:22"/>Subſecivis</hi> when you have not much to do, you may turn over ſome of the An<g ref="char:EOLhyphen"/>cient Poets, in which you were brought up, as <hi>Lucretius, Virgil, Horace, Ovid, Plau<g ref="char:EOLhyphen"/>tus, Terence, Seneca</hi>'s Tragedies, <hi>&amp;c.</hi> Books of ſeveral ſizes that contain a great deal of the Natural and Moral Philoſophy of the Ancients.</p>
+               <p n="2">II. <hi>Petri Galtruchii Inſtitutio Mathematica.</hi> in <hi>Octavo.</hi>
+               </p>
+               <p>
+                  <hi>Andreae Tarquiteti Opera Mathematica.</hi> in <hi>Folio.</hi>
+               </p>
+               <p>
+                  <hi>De Chales Curſus ſeu Mundus Methemati<g ref="char:EOLhyphen"/>cus.</hi> in three <hi>Folio's.</hi>
+               </p>
+               <p>The moſt complete Syſtem of Mathe<g ref="char:EOLhyphen"/>matical Learning that I know.</p>
+               <p>Books that will ſufficiently inſtruct you, either in Philoſophy or the Ma<g ref="char:EOLhyphen"/>thematicks, and by reading of them you will come to the knowledge of others that are eminent in all the particular Arts and Sciences.</p>
+               <p>But ſo much for Books and the beſt Account of them.</p>
+               <pb n="36" facs="tcp:63596:23"/>
+               <p>I could have mentioned more in each kind, but I was not willing to create you too much trouble, nor to ſwell the Let<g ref="char:EOLhyphen"/>ter to a greater bulk than I deſigned at firſt, and therefore I have forborn.</p>
+               <p>And now for a Cloſe, that in the reading of them and o<g ref="char:EOLhyphen"/>thers,
+<note place="margin">Some Directi<g ref="char:EOLhyphen"/>ons concerning Reading, and the right uſe of good Books.</note> you may attain your End, and ſo come to the moſt <hi>
+                     <g ref="char:V">Ʋ</g>ſeful Knowledge;</hi> always take along with you, Theſe <hi>Monita</hi> a few <hi>Directions.</hi>
+               </p>
+               <p>
+                  <label>The firſt Direction.</label>
+               </p>
+               <p>Wiſely and well conſider what you read, that is, underſtand the ſenſe and reaſon of every Author you read, and make the beſt Uſe of his Notions in or<g ref="char:EOLhyphen"/>der to Practice, and Human Converſa<g ref="char:EOLhyphen"/>tion. By this way of Procedure, Liberty of Judgement and Probity of Will at beſt hand.</p>
+               <pb n="37" facs="tcp:63596:23"/>
+               <p>
+                  <label>The ſecond Direction.</label>
+               </p>
+               <p>Obſerve a due Order and Method in your Studies, that is, paſs on leiſurely and ſurely, from one thing to-another, from what you know certainly, from Self-evident principles proceed to the knowledge of other things, that you may know them as certainly too. Ne<g ref="char:EOLhyphen"/>ver Aſſent to any thing that is doubtful and queſtionable, <hi>Aſſenſum Cohibe,</hi> till you meet with ſomething of Certainty that approves it ſelf to the mind either by the cleareſt conviction of Reaſon, or the beſt Atteſtation of others in matters of Fact, if you do ſo, you are then, and not till then in a Good and Safe Way of Knowledge.</p>
+               <p>
+                  <label>The third Direction.</label>
+               </p>
+               <p>For the Relief of your Memory, that you may the better remember what you have read and well conſider'd, com<g ref="char:EOLhyphen"/>mit that to writing; eſpecially what
+<pb n="38" facs="tcp:63596:24"/>you meet with in any Author, that is <hi>Great</hi> and <hi>Conſiderable,</hi> and therefore to that purpoſe, make to your ſelf an <hi>Al<g ref="char:EOLhyphen"/>phabetical Common-place Book,</hi> eſpecially for <hi>Archaeologys</hi> and curious Notions relating either to Perſons or Ancient Cuſtoms.</p>
+               <p>
+                  <label>The fourth Direction.</label>
+               </p>
+               <p>In all your <hi>Particular Studies</hi> mind the main <hi>Drift</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> of them, as for in<g ref="char:EOLhyphen"/>ſtance, according to our former Account of Books.</p>
+               <p n="1">1. <hi>Chriſtian Religion</hi> îs the moſt uſeful knowledge, the beſt Learning in all the World in order to a better, and there<g ref="char:EOLhyphen"/>fore cannot be minded and ſtudied enough: For it makes us <hi>Truly Wiſe</hi> and <hi>Truly Good,</hi> Happy here and Eternally Happy hereafter. In the ſtudying of which, that your profiting may appear to all men, give your ſelf very much to ſerious Meditations, Devout Exerciſes of Piety and Vertue, and reading of ſound Books in Religion, and when
+<pb n="39" facs="tcp:63596:24"/>you do ſo, always have your recourſe to the <hi>Holy Scriptures,</hi> for the ultimate Reſolution of all your Doubts and Diffi<g ref="char:EOLhyphen"/>culties; entertain no Opinions or Senti<g ref="char:EOLhyphen"/>ments in Religion but what are conſo<g ref="char:EOLhyphen"/>nant to this <hi>Infallible Rule of Faith,</hi> and all good Manners. For the better un<g ref="char:EOLhyphen"/>derſtanding of them you ſhall do well to have at hand</p>
+               <p>
+                  <hi>Sebaſtian Caſtellio,</hi> his <hi>Latine</hi> Verſion, with</p>
+               <p>
+                  <hi>Hugo Grotius</hi> his Annotations upon the Holy Bible: And</p>
+               <p>Dr. <hi>Henry Hammond's</hi> Paraphraſe and Annotations upon the New Teſtament: all in <hi>Folio.</hi>
+               </p>
+               <p>Books that will acquaint you with the True, and Rational Senſe of the Holy Scriptures, <hi>The Book of Books.</hi>
+               </p>
+               <p n="2">2. <hi>Geography,</hi> a very <hi>Delightful</hi> and <hi>Profitable</hi> Study, by this kind of Learning you may converſe with the Inhabitants of our little World, tho' never ſo re<g ref="char:EOLhyphen"/>mote from you; by this you will be
+<pb n="40" facs="tcp:63596:25"/>no <hi>Stranger</hi> to any Place or Country, whatſoever, from all which you may Learn ſomething or other that is very uſeful and well-becoming you, as you are a Traveller, eſpecially if you take Notice, all along as you go, of the Choiceſt Productions of <hi>Nature</hi> and <hi>Art,</hi> the main End of this Study.</p>
+               <p n="3">3. <hi>Hiſtory.</hi> Moſt uſeful in its kind, for by this you may acquaint your ſelf with all the Grand changes and revolu<g ref="char:EOLhyphen"/>tions of the world that have happened before you were born, and ſince your time: Here as in a great Theater you may behold humane Nature, under ſeveral Perſons Acting its ſeveral Parts, exerciſing its Vigour in the greateſt and moſt Heroick Actions of Life, and that under the Conduct of Divine Provi<g ref="char:EOLhyphen"/>dence; whatever therefore you meet with of <hi>Note,</hi> in your reading the Hiſtory of ſeveral Ages; or of Perſons in Every Age, I mean that is Truly <hi>Vertuous</hi> and <hi>Praiſe-Worthy,</hi> transform it to your own <hi>
+                     <g ref="char:V">Ʋ</g>ſe,</hi> and make the beſt Improvement
+<pb n="41" facs="tcp:63596:25"/>of it, Conſider your ſelf not only as a bare Reader or Spectator that ſtands by to look on, whilſt others are a <hi>Doing;</hi> But as <hi>One,</hi> that is an <hi>Actor</hi> in every Scene of Human Life; as <hi>One</hi> that is really concern'd in every thing that is ſaid and done by others; Always taking the right ſide and adjoyning your ſelf to thoſe <hi>Hero's</hi> and <hi>Worthy Men,</hi> that have appeared in Publick, and upon the <hi>Stage</hi> in the behalf of <hi>Truth, Honeſty</hi> and <hi>Juſtice;</hi> The <hi>Rule</hi> and <hi>Solid Foundation</hi> of all <hi>Hiſto<g ref="char:EOLhyphen"/>ry,</hi> as alſo the proper Uſe and Reſult of it.</p>
+               <p n="4">4. <hi>Philoſophy</hi> and <hi>Mathematicks,</hi> very pleaſant and delightful <hi>Studies.</hi> Studies for <hi>Minds</hi> and <hi>Abſtracted Souls</hi> from world<g ref="char:EOLhyphen"/>ly Buſineſs, that deſire to know the <hi>Nature</hi> of things with all their <hi>Affections</hi> and <hi>Phaenomena,</hi> and that from their <hi>Im<g ref="char:EOLhyphen"/>mediate Cauſes:</hi> This is the <hi>Standard</hi> and Great Rule in this kind of Learning, and to this you muſt make your Appeal, not to the <hi>Authorities</hi> of Men but the <hi>
+                     <g ref="char:V">Ʋ</g>ncontroulable Reaſon</hi> of things; the <hi>Con<g ref="char:EOLhyphen"/>ſtans
+<pb n="42" facs="tcp:63596:26"/>&amp; Invicta ratio rei</hi> whereever it re<g ref="char:EOLhyphen"/>ſides, either in your own mind, or in the minds of others, that judge aright, from clear and diſtinct perceptions, without Prejudice or Partiality.</p>
+               <p>But I conſider that you are now <hi>Secre<g ref="char:EOLhyphen"/>tary</hi> to the <hi>Council</hi> in the <hi>Eaſt-Indies;</hi> and ſo that Part of Philoſophy which relates to Politicks, will be moſt proper for you to mind, the <hi>Maxims</hi> of which you will find in thoſe Books I have reckoned under the Head of <hi>Moral Philoſophy,</hi> for that is the true <hi>Source</hi> of Politicks, and conſequently muſt Govern all Politi<g ref="char:EOLhyphen"/>cal Learning in its utmoſt Extent, for you may take it for an infallible ſaying, <hi>Nemo niſi vir Probus, Bonus eſt Civis, aut eſſe poteſt.</hi> The Beſt man in Morality is certainly the Beſt Citizen, and trueſt Polititian. For your Conduct herein I ſhall only recommend to you my own <hi>Political Compaſs,</hi> by which you may ſteer your Courſe in all Human and Civil Affairs (as I have done before you) very evenly and ſteddily, and notwith<g ref="char:EOLhyphen"/>ſtanding all the bluſtering winds and
+<pb n="43" facs="tcp:63596:26"/>ſtorms in the State, come at laſt to your Port, and attain your So<g ref="char:EOLhyphen"/>vereign Good.
+<note place="margin">
+                     <hi>The Author</hi>'s <hi>Political Compaſs.</hi>
+                  </note> It conſiſts but of <hi>Eight Points,</hi> and therefore may be eaſily re<g ref="char:EOLhyphen"/>membred, they are theſe.</p>
+               <figure>
+                  <figDesc>symbolical eight point compass</figDesc>
+                  <p>
+                     <list>
+                        <item>Verity.</item>
+                        <item>Probity.</item>
+                        <item>Liberty.</item>
+                        <item>Sovereignty.</item>
+                        <item>Property.</item>
+                        <item>Charity.</item>
+                        <item>Unity.</item>
+                        <item>Piety.</item>
+                     </list>
+                  </p>
+               </figure>
+               <p>Words of great Moment and Impor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ance, ſo duly connected and conſequent one after another, That if they were
+<pb n="44" facs="tcp:63596:27"/>made the <hi>Imperial and Standing Laws of Po<g ref="char:EOLhyphen"/>liticks,</hi> nothing could conduce more to the Publick Peace and Tranquillity of all mankind, than they Truly and Really do, for <hi>Verity</hi> by its kindly and effectual Perſuaſions, inclines the minds of well diſpoſed men to <hi>Piety</hi> and <hi>Pro<g ref="char:EOLhyphen"/>bity,</hi> and they in Conjunction to <hi>
+                     <g ref="char:V">Ʋ</g>nity,</hi> if that may not eaſily be obtained, which to me ſeems ſomewhat hard that it ſhould not be ſo. <hi>Liberty</hi> and <hi>Charity</hi> will certainly adjuſt it and procure it too among rational and good natur'd men; But if theſe Lovely Graces ſhould do it neither, becauſe ſome men are unreaſonable in their pretenſions, and ill natur'd in their deportment towards others; <hi>Sovereignty</hi> muſt at laſt deter<g ref="char:EOLhyphen"/>mine all our unhappy Differences, and Eſtabliſh every man in his juſt Rights and Beloved <hi>Property,</hi> ſo it ſhould be, and there is very great reaſon for it, That by thoſe Eight Words of Wiſdom we ſhould Govern all our Political Tranſactions, the Great Concerns of Human Life and Converſation; I am
+<pb n="45" facs="tcp:63596:27"/>ſure King <hi>Charles</hi> the Firſt, the <hi>Martyr</hi> of Bleſſed Memory Governed himſelf and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his People committed to his Charge by all theſe <hi>Points,</hi> and tho' he met with hard Uſages and an Untimely Death, yet he will be ever remembred for his Eminent <hi>Vertues</hi> and <hi>Sufferings,</hi> by all Re<g ref="char:EOLhyphen"/>ligious and Loyal People that <hi>Fear God, and Henour the King;</hi> and ſo long as his moſt Ex<g ref="char:EOLhyphen"/>cellent Writings remain with us, eſpecially his <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, he can never be forgot. Our preſent Sovereign Lord King <hi>Charles</hi> the Second, whom God long preſerve, following his Fathers Glorious and Illu<g ref="char:EOLhyphen"/>ſtrious Example, has hitherto ſince his <hi>Happy Return</hi> endeavoured to promote among us all theſe great things of <hi>Verity, Piety, Probity, <g ref="char:V">Ʋ</g>nity, Liberty, Charity, So<g ref="char:EOLhyphen"/>vereignty</hi> and <hi>Property.</hi> God Almighty Grant we may ſee the joyful Effects of them in our days: However <hi>in omnem Eventum,</hi> till they are better obſerv'd by us than they are, do you my Dear Friend and Pupil, take them into your Cuſtody, keep them and Practiſe them, as you have occaſion; for the Good of the Univerſe.</p>
+               <pb n="46" facs="tcp:63596:28"/>
+               <p>And now I think we have done with Books and the right Uſe of them in order to Uſeful Knowledge, the point we have been upon all this while; Let us now go on further if you pleaſe.</p>
+               <p n="2">2. You muſt mind alſo the Practice of all Moral and Chriſtian Vertues, <hi>eſpeeially thoſe that velate to the good Govern<g ref="char:EOLhyphen"/>ment of your Thoughts and Paſſions,</hi>
+                  <note place="margin">Vertuous Practices.</note> and the culture and improvement of the inward man, in Humility Modeſty, Pnrity, Meekneſs, Conten<g ref="char:EOLhyphen"/>tedneſs under all Eſtates, (of which I have given you a ſlender explication heretofore in an other Letter of <hi>mine) which if you mind,</hi> as I know you will, becauſe it is really your trueſt Intereſt ſo to do, all Happineſs will attend you, and be with you for ever. But becauſe I was then ſomewhat too brief (the Ship<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> haſting away) I will now (God willing) more <hi>par<g ref="char:EOLhyphen"/>ticularly inform you</hi> (before I paſs from this matter to another) what Method I judge beſt for the <hi>due Go<g ref="char:EOLhyphen"/>vernment
+<pb n="47" facs="tcp:63596:28"/>of the Thoughts and Paſſions,</hi>
+                  <note place="margin">Eſpecially the due Govern<g ref="char:EOLhyphen"/>ment of our thoughts and Paſſions.</note> which I would have you put into practiſe as often as you have occaſion; for this is a matter of great moment, becauſe if our thoughts within us be right, and our paſſions orderly; we have ſecured the two main ſprings of all Human Acti<g ref="char:EOLhyphen"/>ons, their regularity and goodneſs chiefly ariſing from them, and ſo in this procedure as our Thoughts &amp; Paſſi<g ref="char:EOLhyphen"/>ons are, ſo will be our Actions in the End and Reſult.</p>
+               <p n="1">1.<note n="1" place="margin">The Go<g ref="char:EOLhyphen"/>vernment of our Thoughts</note> 
+                  <hi>Therefore look to your Thoughts</hi> that you harbour none in your breaſt or mind, but ſuch as are <hi>pure, holy and harmleſs,</hi> if any other ſhould peep in or ſtart up <hi>(ex improviſo)</hi> as ſome<g ref="char:EOLhyphen"/>time or other they will, preſently <hi>wink them into nothing,</hi> ſend them packing, bid them be gone,
+<note place="margin">The true way of it by Avo<g ref="char:EOLhyphen"/>cation and Revocation.</note> do not parley long with them, but immediately diſmiſs them, <hi>and leaſt they ſhould return upon you with a new force,</hi> in lieu of them always have
+<pb n="48" facs="tcp:63596:29"/>your mind poſſeſſed with ſuch <hi>divine and heavenly thoughts</hi> as relate to God, let God be in all your thoughts, and let all your thoughts be buſied how you may love and ſerve him with all your mind; <hi>En<g ref="char:EOLhyphen"/>tertain alſo ſuch brave and manly thoughts</hi> as will always incline your will to the no<g ref="char:EOLhyphen"/>bleſt actions of Juſtice and Charity, by conſidering the many ways you may do good to others, and to your ſelf alſo; <hi>that you may be always well imployed,</hi> but never given to idleneſs the nurſe of bad and evil thoughts. <hi>Think then alſo</hi> of the certainty of Death, of the judgment and the life to come; <hi>a few ſuch good thoughts</hi> will always over-aw all vain and idle thoughts, that in time they ſhall not have the boldneſs, the daring<g ref="char:EOLhyphen"/>neſs and confidence to appear before your mind.</p>
+               <p n="2">2.<note n="2" place="margin">The Go<g ref="char:EOLhyphen"/>vernment of our paſſions.</note> 
+                  <hi>Look alſo to your paſſions.</hi> for theſe are a vehement kind of thoughts or ſudden agitations of the mind and body together that are apt to put men upon ſtrange adventures,
+<pb n="49" facs="tcp:63596:29"/>and ſo to hurry them into many incon<g ref="char:EOLhyphen"/>veniencies if their Carreer be not ſtopped, <hi>in the firſt Effort</hi> therefore of your Power and Go<g ref="char:EOLhyphen"/>vernment over them,
+<note place="margin">In the firſt Effort.</note> theſe two Rules are to be obſerved.</p>
+               <p n="1">1.<note place="margin">Two Rules to be obſerv'd.</note> Determine your Paſ<g ref="char:EOLhyphen"/>ſions to their proper Ob<g ref="char:EOLhyphen"/>jects, and then 2ly, regu<g ref="char:EOLhyphen"/>late and order them in ſuch a manner as that they be proportionated to thoſe Objects.</p>
+               <p>
+                  <hi>Firſt I ſay determine your Paſſions to their proper Objects,</hi>
+                  <note place="margin">
+                     <hi>The</hi> 1. <hi>Rule. To determine our Pasſions to their proper Objects.</hi>
+                  </note> for if they be only con<g ref="char:EOLhyphen"/>verſant with ſuch as they ſhould be, they are then very Orderly and Uſeful, and there can no harm come to you by any of them; they will then be ſo far from diſturbing the Peace and Tranquillity of your Mind that they will rather promote it: <hi>As for Example,</hi> If you admire nothing but what is Great and Highly Valuable, nor deſpiſe any thing but what is Mean, Little and Contemptible; if you only
+<pb n="50" facs="tcp:63596:30"/>love what is to be loved, that is reall Goodneſs and Vertue, that makes for your real good and the good of all others too, if you hate nothing but what is vitious and miſchievous to you and o<g ref="char:EOLhyphen"/>thers, if you fear nothing but what is truly evil and hurtful, hope for nothing but what is truly deſireable, nor deſire any thing but what is fairly and juſtly obtain<g ref="char:EOLhyphen"/>able, and laſt of all, if you rejoyce in no<g ref="char:EOLhyphen"/>thing but what will ſome way or other make you better; your Paſſions then are well determin'd <hi>as to their proper Objects,</hi> and whilſt they are ſo, all is well within you, the ſerenity of your mind will never be over-clouded, and you need fear no diſmal ſtorms or tempeſts from without, you live in perfect peace and in a true enjoyment of your ſelf.</p>
+               <p n="2">
+                  <hi>Secondly,
+<note place="margin">2d. <hi>Rule. To Regulate and Order them in ſuch a way and manner as may be pro<g ref="char:EOLhyphen"/>portionate to thoſe Objects.</hi>
+                     </note> I ſay regulate and order them alſo in ſuch a way and manner that they may be pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>portionate to their ſeveral Objects;</hi> that is, there is a certain Decorum and Mo<g ref="char:EOLhyphen"/>deration to be obſerved in
+<pb n="51" facs="tcp:63596:30"/>our Paſſions in reference to thoſe things about which they are converſant; <hi>as for inſtance,</hi> The greateſt, the beſt, and wor<g ref="char:EOLhyphen"/>thieſt things, Objects of the higheſt nature and excellency, muſt be greatly admired, and then proſecuted with the greateſt Love of Veneration, and then there can be no Exceſs, no Hyperbole of Love but what is truly commen<g ref="char:EOLhyphen"/>dable and Praiſe-worthy. So our Con<g ref="char:EOLhyphen"/>tempt of vile and little deſpicable things can nei<g ref="char:EOLhyphen"/>ther be too exceſſive,
+<note place="margin">The <g ref="char:V">Ʋ</g>ſe of this Rule ſhewn in moſt Paſſions.</note> and ſo likewiſe our Hatred can never be too ſevere, if it be exerted againſt all man<g ref="char:EOLhyphen"/>ner of Sin and Wickedneſs: on the other ſide, things of a leſſer rate and value will be eſteemed, loved and re<g ref="char:EOLhyphen"/>garded by us, as the things themſelves deſerve and no further. <hi>Again,</hi> in the Paſſions of Fear and Hope, the greateſt Evil moſt to be feared, and the greateſt Good, that which is moſt beneficial to us, may juſtly raiſe great Hopes in us, and incite in us Deſires commenſurate
+<pb n="52" facs="tcp:63596:31"/>to them: for all other things that fall ſhort of theſe, whether Good or Evil, our Fears and Hopes muſt be but ſlen<g ref="char:EOLhyphen"/>der, or little and moderate; as for your Paſſions of Anger, Sadneſs and Joy, Anger is ſeldome warrantable but <hi>In Cauſa Dei &amp; proximi,</hi> in the Cauſe of God and our Neighbour, if the Honour of God be aſſaulted, or diminiſhed by prophane men, or my Neighbour enor<g ref="char:EOLhyphen"/>mouſly wronged by them; <hi>I cannot bear it,</hi> but with Indignation riſe againſt ſuch Perſons as do ſo, and endeavour to re<g ref="char:EOLhyphen"/>dreſs it. For Sadneſs, you have no rea<g ref="char:EOLhyphen"/>ſon to be ſorrowful for any thing but only for your ſins, failings and miſcar<g ref="char:EOLhyphen"/>riages; and therefore by the Grace of God amend them; be ſorry indeed that you have done ſo unadviſedly, but do ſo no more. As for the Griefs of others, their ailes and maladies make them your own, be always ſenſible of their Cala<g ref="char:EOLhyphen"/>mities, pity them and relieve them to the uttermoſt of your power, ſhare with them in their Sufferings, alleviate their Sorrows as much as you can, and
+<pb n="53" facs="tcp:63596:31"/>leave the reſt to the God of all Conſo<g ref="char:EOLhyphen"/>lations.</p>
+               <p>For the kindly paſſion of Joy that ſo much tranſports others out of the right way and out of their wits too, do you ſo comport your ſelf in the right way of Rejoycing, as neither to be exceeding joyful but when you do very well, and are conſcious that you have done nothing amiſs, but have rather heartily and ſin<g ref="char:EOLhyphen"/>cerely endeavoured to do that which is well-pleaſing to God, and right in His ſight; be joyful alſo when you ſee that it goes well with others, concern your ſelf very much in their good and wel<g ref="char:EOLhyphen"/>fare, and rejoyce at it when you per<g ref="char:EOLhyphen"/>ceive that men begin to amend, and follow the beſt and wiſeſt courſes of Life, when you ſee Unity, Peace and Con<g ref="char:EOLhyphen"/>cord, obtain in the World or any part of it, when Righteouſneſs looks down from Heaven, and Truth ſprings up out of the Earth, and prevails univer<g ref="char:EOLhyphen"/>ſally, when you hear of no Complaints in our Streets, no breaking in nor
+<pb n="54" facs="tcp:63596:32"/>breaking out, then make your Bon<g ref="char:EOLhyphen"/>fires of Joy, Erect your Triumphant Arches, <hi>be exceeding joyful, and thank the God of Love and Peace. In a word,</hi> Remember always to rejoyce in the beſt things, and for the good things of this Life, ſo far as they may be Ser<g ref="char:EOLhyphen"/>viceable to you in a way of well-doing, to make you healthful and truly chear<g ref="char:EOLhyphen"/>ful, rejoyce that God Almighty has allowed you ſo liberal a portion of them, abound in Thankſgiving towards him for it, and make the beſt Uſe of them for the benefit of others, that others may alſo rejoyce with you, but never rejoyce at the Calamities and Miſeries of others, never laugh at any body for any little ſillineſs he is guilty of; <hi>For none but great Fools do ſo:</hi> but rather pity them all and enlarge your Charity and Good<g ref="char:EOLhyphen"/>will towards them, that by your gentleneſs and tender commiſeration they may not be dejected or aggrieved, but on the contrary kindly comforted and relieved by you.</p>
+               <pb n="55" facs="tcp:63596:32"/>
+               <p>
+                  <hi>In this way and by this Method of Govern<g ref="char:EOLhyphen"/>ment <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> you may order all the reſt of your Paſſions, do but determine them aright to their proper Objects, and then limit, butt and bound them after the manner before ſet down, and you will take a great deal of pleaſure and ſatis<g ref="char:EOLhyphen"/>faction of mind, to ſee them all ſubject to your Commands. <hi>But now if any of them at any time ſhould be ſo inſolent, ſo re<g ref="char:EOLhyphen"/>fractory and rebellious,</hi> as not to ſubmit them<g ref="char:EOLhyphen"/>ſelves to your Government, that is the Government of right reaſon, but bid defiance to it, and deſire to reign in you without controul.</p>
+               <p>
+                  <hi>Then in the ſecond or next Effort</hi> you muſt uſe ſome Policy as well as main force and reduce them to Obedience and Submiſſion,
+<note place="margin">In the ſecond Effort.</note> and that you may eaſily do if you obſerve theſe two Maxims of State:</p>
+               <pb n="56" facs="tcp:63596:33"/>
+               <p n="1">I.<note place="margin">
+                     <hi>Two Maxims of State muſt be obſerved and practiſed. The firſt Ma<g ref="char:EOLhyphen"/>xim</hi> Divide and Com<g ref="char:EOLhyphen"/>mand.</note> 
+                  <hi>Divide &amp; impera,</hi> Di<g ref="char:EOLhyphen"/>vide and Command. That is raiſe a ſtrong Faction and Party among your Paſſions, ſet one againſt the other, Admiration of great things againſt Admi<g ref="char:EOLhyphen"/>ration of little things; ſo Love againſt Hatred, Hope againſt Fear, Joy againſt Sadneſs, <hi>&amp;c.</hi> and then ſometimes take part with one Side, at another time with another ſide; where you ſee any Paſſion exorbitant or headſtrong, encourage ſome other Paſſions that are more Innocuous and Governable, to oppoſe its Tyranny and Undermine it, for by this means you will enjoy the Peace and Quiet of a good Mind always within you the better for it.</p>
+               <p n="2">II.<note place="margin">The Second Maxim. Truſt, but look well whom you truſt.</note> 
+                  <hi>Fide ſed Cui Vide,</hi> that is truſt not any of your Paſſions with your moſt important Affairs, never admit them to your Ca<g ref="char:EOLhyphen"/>binet
+<pb n="57" facs="tcp:63596:33"/>Counſels, they are good Lacquaies to wait upon you, but very bad Coun<g ref="char:EOLhyphen"/>ſellors to be adviſed withal, therefore keep them out upon your Errands, but let them never go before you give the Command; when they are returned, leaſt they ſhould grow idle or trouble<g ref="char:EOLhyphen"/>ſome to you, always find them work, make them your Tributaries as well as Subjects, and if any of them ſhould re<g ref="char:EOLhyphen"/>fuſe to pay that Reſpect and Homage, that Fidelity and Obedience, which is due to ſo noble a Governour, Correct them ſeverely, and if they will not mend, turn them out of doors; as for thoſe other Paſſions that you will find more dutiful and obſervant of your Com<g ref="char:EOLhyphen"/>mands, them only truſt with your little concerns, <hi>let them have the Honour to ſerve you,</hi> and for their good Services do you <hi>turn them into Vertues,</hi> and then you ſhall be ſtill better ſerved, and your happi<g ref="char:EOLhyphen"/>neſs will never be diſturbed by them, but rather in greater meaſures and de<g ref="char:EOLhyphen"/>grees augmented.</p>
+               <pb n="58" facs="tcp:63596:34"/>
+               <p>I have been ſomewhat longer upon this head of diſcourſe, becauſe the mat<g ref="char:EOLhyphen"/>ter deſerved it, I will now make you amends and be ſhorter in the next Paragraph.</p>
+               <p n="3">III.<note place="margin">The whole Man muſt be alſo regarded by us.</note> 
+                  <hi>You muſt alſo have a<g ref="char:EOLhyphen"/>regard to the whole man,</hi> that your outward Converſa<g ref="char:EOLhyphen"/>tion and deportment be ſuch as becomes a generous Soul that dwells within you: <hi>that is to ſay,</hi> Endeavour always to be like your ſelf, <hi>Sis ſemper idem,</hi> let your mind be ſeen by your face, your words agree with your meaning; <hi>ſhew your Self good<g ref="char:EOLhyphen"/>natur'd throughout;</hi> do all things <hi>(ex intuitu boni <g ref="char:V">Ʋ</g>niverſi)</hi> out of a kind reſpect to the good of the Univerſe, and then pro<g ref="char:EOLhyphen"/>ceed to bring it really about, <hi>Ex amore veri &amp; optimi,</hi> out of your great love to that which the beſt reaſon of your mind judges to be the trueſt and beſt way to attain that Sovereign Good, <hi>be upright, ſincere and conſtant</hi> in the whole courſe of your Life, be Courteous, Affable,
+<pb n="59" facs="tcp:63596:34"/>Friendly and Obliging to all you Con<g ref="char:EOLhyphen"/>verſe with, that others may know you by your actions and worthy deeds, as well as by your fair Carriage and ci<g ref="char:EOLhyphen"/>vill Behaviour, <hi>This will make you be well thought of, and truly be loved by all others,</hi> by this means you will contract a firm alliance with all good men, and that will not a little conduce to the increaſe of your happineſs.</p>
+               <p n="4">IV.<note place="margin">Our good Name and Reputation.</note> 
+                  <hi>Be tender of your good Name and Reputation,</hi> which you may eaſily obtain and maintain, if you never do any thing whereof you may have juſt cauſe to be aſhamed; be but true to your own Conſcience in the faithful diſcharge of your ſeveral duties, and you cannot fail of an unſtained Repu<g ref="char:EOLhyphen"/>tation, and that ſurely in this World goes a great way to ſecure a Mans hap<g ref="char:EOLhyphen"/>pineſs: If you live inoffenſively and vertuouſly with a due reſpect to all Gods Commandments, if you walk un<g ref="char:EOLhyphen"/>blamably and righteouſly you will walk
+<pb n="61" facs="tcp:63596:35"/>ſurely, and then Honour and all due Reſpect from men of the beſt judgement will follow you.</p>
+               <p n="5">V.<note place="margin">Our Real and Perſonal E<g ref="char:EOLhyphen"/>ſtate.</note> 
+                  <hi>And laſt of all your re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and perſonal Eſtate,</hi> that you may live conveniently and handſomely by it, <hi>muſt be alſo minded by you.</hi> God Almighty has placed you in a condition of Life that may be very gainful and advanta<g ref="char:EOLhyphen"/>geous to you, in which many have got great Eſtates in a little time, now my dear Friend that you may do ſo too <hi>feſtina lente,</hi> do not make too much haſt to be rich, but uſe all diligence and induſtry, all fair, juſt and honeſt ways to come to a plentiful Eſtate, for induſtry and honeſty is the trueſt policy in this Caſe, to get and increaſe Riches, it has the bleſſing of God promiſed to go along with it, ſo ſays the wiſe King <hi>Solomon, The diligent hand maketh rich,</hi> and then when you are in poſſeſſion of ſomething of your own which your pains and innocent endeavours have brought you
+<pb n="60" facs="tcp:63596:35"/>in, <hi>Remember</hi> that you lay by ſome of it <hi>for Pious and Charitable <g ref="char:V">Ʋ</g>ſes,</hi> wherewith to gratifie your poor and indigent Neighbour, <hi>this I can aſſure you</hi> will ne<g ref="char:EOLhyphen"/>ver leſſen your Eſtate, or make you poorer for it, but rather the richer, for it will never prove detrimental to you, but rather highly beneficial to you both in this World, and that which is to come, <hi>For the Charitable man is greatly be<g ref="char:EOLhyphen"/>loved of God,</hi> he will take eſpecial Care of him, that whoever wants he ſhall never want, and at <hi>Doomsday</hi> he ſhall be moſt amply rewarded for all his Heroick Acts of Charity and Kindneſs, which he has out of the Love of God and his Neighbours ſhewn unto others.</p>
+               <p>
+                  <hi>And now I am come at laſt to an end of my long Letter,</hi>
+                  <note place="margin">The Tranſiti<g ref="char:EOLhyphen"/>tion to the next head of Diſcourſe.</note> it is you ſee <hi>a Letter that treats of the moſt Sovereign Good in which mans happineſs is to be placed,</hi> it is in <hi>A Letter of Love,</hi> but then it treats of the <hi>Divineſt Love</hi> that a Human Soul is capable of, and therefore I hope
+<pb n="62" facs="tcp:63596:36"/>you cannot have been weary in reading of it thus far. Now my Dear Mr. <hi>James King,</hi> for a farewell and to conclude, I will now only entertain you with one ſpecial Rule of Love more, that there may be nothing wanting in this Letter to com<g ref="char:EOLhyphen"/>pleat your happineſs, and to further you in this great Vertue of <hi>Love,</hi> and <hi>that is as you are a Lover of Vertue, and ſo a good Chriſtian, let me entreat you</hi> not to trouble your ſelf with Controverſies, or Litigi<g ref="char:EOLhyphen"/>ous Queſtions about Religion, <hi>for the Chriſtian Religion</hi> (as it is Profeſſed alſo by our Church of <hi>England</hi> in her Sixth Ar<g ref="char:EOLhyphen"/>ticle of Religion) is ſo plainly and in<g ref="char:EOLhyphen"/>telligibly laid down in the Scriptures, eſpecially of the New Teſtament, that it requires not ſo much a ſubtle head to underſtand it; as a good and honeſt heart to Believe and Practiſe thoſe Sacred Truths which are there ſo evidently delivered, and ſo effectually recommended unto us, <hi>I ſay waving <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Controverſies and nice Speculations,</hi> which are both fruitleſs and unprofitable, and alſo very deſtructive of this Holy Love I
+<pb n="63" facs="tcp:63596:36"/>have all this while been diſcourſing of to you.</p>
+            </div>
+            <div n="6" type="section">
+               <p>§ VI.<note place="margin">The infal<g ref="char:EOLhyphen"/>lible way of attaining the Soverein good of Mans hap<g ref="char:EOLhyphen"/>pineſs.</note> 
+                  <hi>Make it your daily ſtudy and conſtant practice, to Love the Lord Jeſus Chriſt in Truth and Sincerity:</hi> For this Love of him being firmly rooted in the heart will make you a True Diſciple of His,
+<note place="margin">In the ſpecial way of Chri<g ref="char:EOLhyphen"/>ſtian Religion.</note> and infinitely tend to the advancement of your Happineſs both here and hereafter.</p>
+               <p>Now that you may do ſo you will not fail to love our bleſſed Saviour Chriſt Jeſus in ſincerity,
+<note place="margin">By Loving our Lord Jeſus Chriſt in Truth and Sincerity.</note> if you mind and practiſe theſe three things.</p>
+               <p n="1">Firſt,
+<note n="1" place="margin">Honour Him.</note> 
+                  <hi>Always maintain in your mind an high and ho<g ref="char:EOLhyphen"/>nourable opinion of our ever bleſſed Maſter</hi> Jeſus Chriſt, that is, think of
+<pb n="64" facs="tcp:63596:37"/>him frequently with Honour and Re<g ref="char:EOLhyphen"/>verence.</p>
+               <p n="1">1.<note n="1" place="margin">As to his Perſon.</note> 
+                  <hi>As to His Perſon.</hi> 2. <hi>As to his Offices.</hi> 1. <hi>As to his Perſon,</hi> you then honour him with that Religious Veneration and Worſhip you ought, if you acknow<g ref="char:EOLhyphen"/>ledge him to be the True, the Honou<g ref="char:EOLhyphen"/>rable and <hi>only begotten Son of God,</hi> the expreſs Image of the inviſible God that came from the great God of Heaven and Earth, and from him received his Divine Authority: <hi>Hear him therefore</hi> who has been ſo highly dignified by God Almighty, as thrice to be openly and audibly declared the Well-beloved Son of God; beſides the many Miracles he did, and at laſt his Glorious Reſurrecti<g ref="char:EOLhyphen"/>on from the Dead ſhew him to you in the Glory of the only begotten Son of God, full of Grace and Truth, that you ſhould honour him, as you honour God the Father.</p>
+               <pb n="65" facs="tcp:63596:37"/>
+               <p n="2">2.<note n="2" place="margin">
+                     <hi>As to his Offices.</hi> 1. <hi>Your Pro<g ref="char:EOLhyphen"/>phet.</hi>
+                  </note> 
+                  <hi>Look unto Jeſus with a Religious regard and honour as to his Offices,</hi> for ſo you will find him to be, 1. <hi>Your great Prophet and Teacher,</hi> to inſtruct you in the Revelation of God's Mind and Will to you, what he will do for you, and what he will have you do in order to your Everlaſting Happi<g ref="char:EOLhyphen"/>neſs. <hi>Give him therefore that Honour that is due to ſo great a Prophet:</hi> Submit your ſelf to his Inſtructions, take his Yoke upon you, and faithfully obſerve all his Sayings.</p>
+               <p n="2">2.<note n="2" place="margin">Your High-Prieſt.</note> 
+                  <hi>Behold Jeſus alſo in the Glory of his Kingdom as your merciful High-Prieſt,</hi> to make Attonement for you, to repreſent your Caſe in Heaven, to interceed for you there, and from thence to bleſs you with all Spiritual and Temporal Bleſſings, <hi>and therefore daily pray unto him,</hi> that he would be mindful of you now he is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n his Kingdom, and has received all Power in Heaven and Earth, <hi>doubtleſs
+<pb n="66" facs="tcp:63596:38"/>for your good and benefit, and be you alſo very mindful of him whilſt you are here upon Earth,</hi> that you keep up the memory of his venerable Paſſion and Death, and Com<g ref="char:EOLhyphen"/>municate with Chriſtian People as often as you can, <hi>Eſpecially at thoſe ſolemn times</hi> our Church has appointed the Holy Communion; <hi>I mean the Feſtival Days ſet apart and dedicated to the honour and everlaſting remembrance of our Bleſſed Saviour.</hi>
+               </p>
+               <p n="3">3.<note n="3" place="margin">Your King.</note> 
+                  <hi>And laſtly, look upon him as your Sovereign Lord and moſt Gracious King,</hi> to Govern you by the wiſeſt and beſt Laws, and to direct you by his good Spirit, to defend you from all your Enemies, and in due time to raiſe you from this infirm and mortal ſtate, to an immortal, full of glory, ho<g ref="char:EOLhyphen"/>nour and bleſſedneſs in the world to come, to crown you with a Crown of Righteouſneſs, and a Diadem of never fading Glory: <hi>Honour therefore and reve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> this glorious King of yours, remember</hi> you are one of his Subjects, and therefore make good that relation you ſtand in towards
+<pb n="67" facs="tcp:63596:38"/>your deareſt Lord, <hi>love and ſerve and ho<g ref="char:EOLhyphen"/>nour him for ever.</hi>
+               </p>
+               <p n="2">2ly.<note n="2" place="margin">Entertain his Doctrine.</note> 
+                  <hi>Entertain his Doctrine with all readineſs and reſolu<g ref="char:EOLhyphen"/>tion of mind with a full conſent and purpoſe of your will to live according to it, that is,</hi>
+               </p>
+               <p n="1">1.<note n="1" place="margin">Believe his Promiſes.</note> 
+                  <hi>Believe his Promiſes,</hi> as they are in themſelves both general, reſpecting the good of all Mankind, and alſo conditional requiring ſomething to be done by us, for our exceeding great comfort; firſt then believe his gracious Promiſe <hi>about the forgiveneſs of our Sins,</hi> upon the condi<g ref="char:EOLhyphen"/>tion of a living Faith, ſincere repentance and new obedience to be performed by you, <hi>ſo his promiſes about the aſſiſtance of Di<g ref="char:EOLhyphen"/>vine Grace and the Spirit of God,</hi> to further you in all well-doing, <hi>his Promiſes re<g ref="char:EOLhyphen"/>lating to this Life, and a comfortable ſubſiſtence <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere;</hi> that you may be content with what<g ref="char:EOLhyphen"/>ſoever God ſends, <hi>his Promiſe during your <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>boad and Pilgrimage here,</hi> that you ſhall
+<pb n="68" facs="tcp:63596:39"/>be under his Guardianſhip and the Pro<g ref="char:EOLhyphen"/>tection of his good Angels to keep all Evil from you, <hi>and therefore be Valiant and Couragious; and laſt of all believe his great Promiſe of Eternal Life,</hi> to keep up your mind above all the Temptations of this world, that you be not inſnared or over<g ref="char:EOLhyphen"/>come by them; <hi>theſe are the great things, and the good things that our Saviour has promiſed to us,</hi> and you need not doubt or queſtion his Veracity, but he will make them good to you in particular, if you only believe on him with the heart unto Righteouſneſs, and therefore in the next place:</p>
+               <p n="2">2dly.<note n="2" place="margin">Obey his Precepts.</note> 
+                  <hi>Obey his Precepts uni<g ref="char:EOLhyphen"/>verſally, Sincerely and Conſtant<g ref="char:EOLhyphen"/>ly,</hi> that ſo you may with<g ref="char:EOLhyphen"/>out fail inherit his promiſes. Theſe holy Precepts of his you may find in his di<g ref="char:EOLhyphen"/>vine and excellent Sermon on the Mount, and in moſt of the pages of the New Teſtament. St. <hi>Paul</hi> has re<g ref="char:EOLhyphen"/>duced them to three Heads, that we live Soberly, Righteouſly and Godlily. <hi>Tit.</hi> 2.
+<pb n="69" facs="tcp:63596:39"/>and certainly he that makes conſci<g ref="char:EOLhyphen"/>ence ſo to do, that lives in a conſtant obſervance of our Saviour's laws, that glorifies God Almighty <hi>by a Voluntary, chearful and conſtant obedience in the whole courſe of his life,</hi> as he does our Saviour the greateſt honour and ſervice of love, fulfills the whole duty of a Chriſtian, loves his good Maſter heartily and in<g ref="char:EOLhyphen"/>tirely, according to that bleſſed ſaying of his, <hi>If ye love me keep my Commandments;</hi> ſo this holy and good man ſhall only inherit that bleſſedneſs and thoſe beati<g ref="char:EOLhyphen"/>tudes which our Saviour has promiſed to beſtow on his faithful Servants in the other world, when he ſhall appear in his own glory and illuſtrious preſence, to our Eternal Satisfaction.</p>
+               <p n="3">3. <hi>And laſtly,
+<note n="3" place="margin">Imitate his holy life and Example.</note> follow your bl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſed and holy Maſter Jeſus in his holy life, and the many ex<g ref="char:EOLhyphen"/>amples of Vertue of all kinds he has ſet before you.</hi>
+               </p>
+               <p>
+                  <hi>Imitate his Piety and Devotion</hi> in his lo<g ref="char:EOLhyphen"/>ving of God his Father, in magnifying
+<pb n="70" facs="tcp:63596:40"/>his holy Name in the world upon all oc<g ref="char:EOLhyphen"/>caſions, in ſetting up his Kingdom of righ<g ref="char:EOLhyphen"/>teouſneſs, in advancing his honour and the due obſervance of his holy Laws, and in the reſigning of himſelf perfectly to his divine Will in all things; ſo that it became his meat and drink to do the Will of his Father which is in heaven.</p>
+               <p>
+                  <hi>Imitate him next to that in his great Chari<g ref="char:EOLhyphen"/>ty to all men;</hi> for he went up and down, as the holy Story ſays of him, only to do good; where ever he was and where ever he came he left <hi>monuments of his great Beneficence behind him, all places and all per<g ref="char:EOLhyphen"/>ſons were really the better for him;</hi> and ſo do you herein follow your bleſſed Maſter as you have opportunity to do good to all, eſpecially to the houſhold of faith, <hi>that is</hi> (to explain St. <hi>Paul</hi>'s phraſe to you in plain Engliſh) to thoſe that are emi<g ref="char:EOLhyphen"/>nently Vertuous, truly Juſt and Good according to our Saviour's holy Religi<g ref="char:EOLhyphen"/>on and Faith, as thoſe that beſt deſerve your Charity and Kindneſs.</p>
+               <p>
+                  <hi>Imitate your holy Maſter alſo in his great Hu<g ref="char:EOLhyphen"/>mility, Purity, Sobriety, Temperance, Meek<g ref="char:EOLhyphen"/>neſs,
+<pb n="71" facs="tcp:63596:40"/>Contempt of this World, Heavenly-mindedneſs, his Magnanimity and Patience,</hi> in his undergoing and bearing all afflictions and ſufferings, eſpecially his <hi>invincible Patience under his Croſs,</hi> and his laſt tri<g ref="char:EOLhyphen"/>umphs of it in his holy Paſſion and Death. <hi>In a word, always have this great Examplar of all Vertue and Holineſs before your eyes,</hi> as he walked ſo do you, as he was in the World, ſo be you, that ſo you may ſay in truth and ſincerity of heart with St. <hi>Paul,</hi> now I live, yet not I, but Chriſt lives in me, <hi>which if it be your happineſs to do,</hi> (as it is really the great<g ref="char:EOLhyphen"/>eſt happineſs in the world ſo to do) you will never repent your ſelf that you have lived thus, and when you come to dye, as we all muſt, you will find the bleſſed comfort of it in your ſelf, and ſo in full aſ<g ref="char:EOLhyphen"/>ſurance of your Faith, in ſure and certain hope, you will paſs into thoſe happy regions of Light and Glory whither our bleſſed Saviour is gone before us to receive you; there you ſhall live and reign with him, and be bleſſed for ever world without end, <hi>Amen. So be it. My dear Friend;</hi> God grant we may all of us there meet in his due time to our everlaſt<g ref="char:EOLhyphen"/>ing comfort and ſatisfaction: In the mean time; <hi>Si<g ref="char:EOLhyphen"/>mus in procinctu,</hi> let us be always ready for that bleſſed ſtate by Innocency and Holineſs of life; let us love our Lord Jeſus Chriſt in truth and ſincerity, and follow St. <hi>Paul</hi>'s ſhort advice moſt exactly, with which I will ſhut up this long Letter of mine: Phil. 4.8, 9. <hi>Finally, brethren, whatſoever things are true, whatſoever things are honeſt, whatſoever things are juſt, whatſoever things are pure, whatſoever things are lovely, whatſoever things are of good report: if there be any vertue, and if there be any praiſe, think on theſe
+<pb n="72" facs="tcp:63596:41"/>things. Thoſe things which you have both learned and received, and heard and ſeen in me, do: and the God of peace ſhall be with you.</hi>
+               </p>
+            </div>
+            <div n="7" type="section">
+               <p>§ VII.
+<note place="margin">The Concluſion.</note> 
+                  <hi>And ſo my good Friend farewell, and be perfect in this di<g ref="char:EOLhyphen"/>vine and heavenly art of living well and happily.</hi> God Almighty bleſs you and inrich your Soul with all the graces of his holy Spirit; <hi>May the divine Spirit of all love and goodneſs, and a ſound Mind ever abide with you;</hi> as it is and ſhall be my conſtant Prayer for you, ſo in this excellent Spirit of Love, with all hearty Affection, I ever remain</p>
+               <closer>
+                  <salute>Dear Sir,</salute> 
+                  <signed>
+                     <hi>Your true Friend and Chriſtian Tutor</hi> Henry Jenkes.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>
+                  <hi>Mr.</hi> Faithorne <hi>and Mr.</hi> Kerſey,</salute>
+            </opener>
+            <p>
+               <hi>I have reviewed this Letter of mine, and made ſome conſiderable Additions to it ſince I firſt writ it; if you think good to Print it as it is now Enlarged, I give you my free Leave and Conſent ſo to do. Fare you well.</hi>
+            </p>
+            <closer>
+               <signed>H. J.</signed>
+               <dateline>From my beloved Colledg of <hi>Gonvill</hi> and <hi>Cajus</hi> in the Univerſity of <hi>Cam<g ref="char:EOLhyphen"/>bridg,</hi> 
+                  <date>
+                     <hi>Octob.</hi> 11. 1682.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:63596:41"/>
+         </div>
+      </back>
+   </text>
+</TEI>
